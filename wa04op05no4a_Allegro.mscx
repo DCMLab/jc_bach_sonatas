@@ -9,6 +9,9 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <minSystemDistance>15.5</minSystemDistance>
+      <maxSystemDistance>20</maxSystemDistance>
+      <harmonyY>6</harmonyY>
       <page-layout>
         <page-height>1584</page-height>
         <page-width>1224</page-width>
@@ -54,24 +57,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -90,6 +77,14 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -102,12 +97,28 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
       <Page>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         <System>
@@ -199,12 +210,16 @@
         <Tempo>
           <tempo>1.93333</tempo>
           <followText>1</followText>
+          <pos x="-15.6209" y="-8.72122"/>
           <text>Allegro</text>
           </Tempo>
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
           </Dynamic>
+        <Harmony>
+          <name>.Eb.I[I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -246,6 +261,9 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -276,6 +294,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -369,6 +390,9 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -387,6 +411,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -453,6 +480,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V43</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -508,6 +538,9 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Beam id="3">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -650,6 +683,9 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -665,6 +701,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -680,6 +719,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -702,6 +744,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -726,6 +771,9 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -783,6 +831,9 @@
           <subtype>p</subtype>
           <velocity>49</velocity>
           </Dynamic>
+        <Harmony>
+          <name>I[I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -824,6 +875,9 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -854,6 +908,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -937,6 +994,9 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -955,6 +1015,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -1021,6 +1084,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V43</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -1076,6 +1142,9 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Beam id="9">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1218,6 +1287,9 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <Harmony>
+          <name>IV6</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -1236,6 +1308,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -1254,6 +1329,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -1272,6 +1350,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -1292,6 +1373,9 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -1346,11 +1430,17 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V.I6</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="17">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="13">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1359,6 +1449,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>trill</subtype>
+            <pos x="0.345027" y="-9.57532"/>
             </Articulation>
           <Beam>13</Beam>
           <Note>
@@ -1390,6 +1481,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>trill</subtype>
+            <pos x="0.658281" y="-9.32231"/>
             </Articulation>
           <Beam>14</Beam>
           <Note>
@@ -1434,6 +1526,9 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -1477,6 +1572,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
@@ -1494,6 +1592,9 @@
           </Rest>
         </Measure>
       <Measure number="19">
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <Beam id="16">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1502,6 +1603,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>trill</subtype>
+            <pos x="0.814908" y="-9.29219"/>
             </Articulation>
           <Beam>16</Beam>
           <Note>
@@ -1525,6 +1627,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Beam id="17">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1533,6 +1638,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>trill</subtype>
+            <pos x="1.28479" y="-8.91266"/>
             </Articulation>
           <Beam>17</Beam>
           <Note>
@@ -1567,6 +1673,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1580,6 +1689,9 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -1588,6 +1700,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Beam id="18">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1623,6 +1738,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
@@ -1641,6 +1759,9 @@
           </Rest>
         </Measure>
       <Measure number="21">
+        <Harmony>
+          <name>V6/ii</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -1650,6 +1771,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -1761,6 +1885,9 @@
           </Rest>
         </Measure>
       <Measure number="22">
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -1768,6 +1895,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -1871,6 +2001,9 @@
           </Rest>
         </Measure>
       <Measure number="23">
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Beam id="21">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1910,6 +2043,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV6</name>
+          </Harmony>
         <Beam id="22">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1949,6 +2085,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6</name>
+          </Harmony>
         <Beam id="23">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1988,6 +2127,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio/V</name>
+          </Harmony>
         <Beam id="24">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2032,6 +2174,9 @@
           </Chord>
         </Measure>
       <Measure number="24">
+        <Harmony>
+          <name>V[V\\</name>
+          </Harmony>
         <Beam id="25">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2108,6 +2253,9 @@
           </Chord>
         </Measure>
       <Measure number="25">
+        <Harmony>
+          <name>I64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2141,6 +2289,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>viio6/V</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2197,6 +2348,9 @@
           </Chord>
         </Measure>
       <Measure number="26">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Beam id="26">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2288,6 +2442,9 @@
           </Chord>
         </Measure>
       <Measure number="27">
+        <Harmony>
+          <name>I64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2321,6 +2478,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>viio6/V</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2377,6 +2537,9 @@
           </Chord>
         </Measure>
       <Measure number="28">
+        <Harmony>
+          <name>V]\\</name>
+          </Harmony>
         <Beam id="27">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2419,6 +2582,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Beam id="28">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2458,6 +2624,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -2465,6 +2634,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V43</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2474,6 +2646,9 @@
           <subtype>p</subtype>
           <velocity>49</velocity>
           </Dynamic>
+        <Harmony>
+          <name>I[I</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -2499,6 +2674,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2509,6 +2687,9 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2524,6 +2705,9 @@
           </Rest>
         </Measure>
       <Measure number="30">
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Articulation>
@@ -2662,6 +2846,9 @@
           </Chord>
         </Measure>
       <Measure number="32">
+        <Harmony>
+          <name>V(64)</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -2677,6 +2864,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -2684,6 +2874,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Rest>
           <offset x="0" y="2"/>
           <durationType>quarter</durationType>
@@ -2723,6 +2916,9 @@
           </Chord>
         </Measure>
       <Measure number="33">
+        <Harmony>
+          <name>I[I</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -2748,6 +2944,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2758,6 +2957,9 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2773,6 +2975,9 @@
           </Rest>
         </Measure>
       <Measure number="34">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Articulation>
@@ -2805,6 +3010,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -2817,6 +3025,9 @@
           </Chord>
         </Measure>
       <Measure number="35">
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2845,6 +3056,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <grace16/>
@@ -2883,6 +3097,9 @@
           </Chord>
         </Measure>
       <Measure number="36">
+        <Harmony>
+          <name>I\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -2894,6 +3111,9 @@
           <subtype>f</subtype>
           <velocity>96</velocity>
           </Dynamic>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3008,6 +3228,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3039,6 +3262,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3067,6 +3293,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3100,6 +3329,9 @@
           </Chord>
         </Measure>
       <Measure number="38">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -3107,6 +3339,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3221,6 +3456,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3252,6 +3490,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3280,6 +3521,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V6/V</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -3313,6 +3557,9 @@
           </Chord>
         </Measure>
       <Measure number="40">
+        <Harmony>
+          <name>V(4)</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -3320,6 +3567,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Articulation>
@@ -3332,6 +3582,9 @@
           </Chord>
         </Measure>
       <Measure number="41">
+        <Harmony>
+          <name>I[I\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -3344,6 +3597,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3351,6 +3607,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3361,6 +3620,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3368,6 +3630,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3375,6 +3640,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3430,6 +3698,9 @@
           </Chord>
         </Measure>
       <Measure number="42">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -3441,6 +3712,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3452,6 +3726,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3463,6 +3740,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3474,6 +3754,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3485,6 +3768,10 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          <pos x="-1" y="-6"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -3512,6 +3799,9 @@
         </Measure>
       <Measure number="43">
         <endRepeat>2</endRepeat>
+        <Harmony>
+          <name>I]\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -3890,6 +4180,9 @@
           </Chord>
         </Measure>
       <Measure number="46">
+        <Harmony>
+          <name>I.V2</name>
+          </Harmony>
         <Tuplet id="21">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -4193,6 +4486,9 @@
           </Chord>
         </Measure>
       <Measure number="48">
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Tuplet id="29">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -4230,6 +4526,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I64</name>
+          </Harmony>
         <Tuplet id="30">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -4343,6 +4642,9 @@
           </Chord>
         </Measure>
       <Measure number="49">
+        <Harmony>
+          <name>V64</name>
+          </Harmony>
         <Tuplet id="33">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -4380,6 +4682,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V2</name>
+          </Harmony>
         <Tuplet id="34">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -4417,6 +4722,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
         <Tuplet id="35">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -4454,6 +4762,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V2</name>
+          </Harmony>
         <Tuplet id="36">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -4493,6 +4804,9 @@
           </Chord>
         </Measure>
       <Measure number="50">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Tuplet id="37">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -4790,6 +5104,9 @@
           </Chord>
         </Measure>
       <Measure number="52">
+        <Harmony>
+          <name>V2/IV</name>
+          </Harmony>
         <Tuplet id="45">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -5087,6 +5404,9 @@
           </Chord>
         </Measure>
       <Measure number="54">
+        <Harmony>
+          <name>IV6</name>
+          </Harmony>
         <Tuplet id="53">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5124,6 +5444,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Tuplet id="54">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5237,6 +5560,9 @@
           </Chord>
         </Measure>
       <Measure number="55">
+        <Harmony>
+          <name>V64/IV</name>
+          </Harmony>
         <Tuplet id="57">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5274,6 +5600,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V/IV</name>
+          </Harmony>
         <Tuplet id="58">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5311,6 +5640,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7/IV</name>
+          </Harmony>
         <Tuplet id="59">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5351,6 +5683,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V/IV</name>
+          </Harmony>
         <Tuplet id="60">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5390,6 +5725,9 @@
           </Chord>
         </Measure>
       <Measure number="56">
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Tuplet id="61">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5427,6 +5765,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V(64)/ii</name>
+          </Harmony>
         <Tuplet id="62">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5464,6 +5805,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V43/ii</name>
+          </Harmony>
         <Tuplet id="63">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5501,6 +5845,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7/ii</name>
+          </Harmony>
         <Tuplet id="64">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5540,6 +5887,9 @@
           </Chord>
         </Measure>
       <Measure number="57">
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Tuplet id="65">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5577,6 +5927,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii64</name>
+          </Harmony>
         <Tuplet id="66">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5614,6 +5967,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>vi6</name>
+          </Harmony>
         <Tuplet id="67">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5651,6 +6007,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>vi</name>
+          </Harmony>
         <Tuplet id="68">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5690,6 +6049,9 @@
           </Chord>
         </Measure>
       <Measure number="58">
+        <Harmony>
+          <name>V43/vi</name>
+          </Harmony>
         <Tuplet id="69">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5727,6 +6089,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7/vi</name>
+          </Harmony>
         <Tuplet id="70">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5764,6 +6129,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>vi</name>
+          </Harmony>
         <Tuplet id="71">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5801,6 +6169,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>vi64</name>
+          </Harmony>
         <Tuplet id="72">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5840,6 +6211,9 @@
           </Chord>
         </Measure>
       <Measure number="59">
+        <Harmony>
+          <name>iio6/vi</name>
+          </Harmony>
         <Tuplet id="73">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5877,6 +6251,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iio64/vi</name>
+          </Harmony>
         <Tuplet id="74">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5914,6 +6291,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>#viio7/iii</name>
+          </Harmony>
         <Tuplet id="75">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5951,6 +6331,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iio/iii</name>
+          </Harmony>
         <Tuplet id="76">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -5990,6 +6373,9 @@
           </Chord>
         </Measure>
       <Measure number="60">
+        <Harmony>
+          <name>iii[V/vi\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -6035,6 +6421,9 @@
           </Chord>
         </Measure>
       <Measure number="61">
+        <Harmony>
+          <name>vi64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -6068,6 +6457,10 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>#viio64/iii</name>
+          <pos x="-2" y="-6"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -6124,6 +6517,9 @@
           </Chord>
         </Measure>
       <Measure number="62">
+        <Harmony>
+          <name>V/vi</name>
+          </Harmony>
         <Beam id="82">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -6215,6 +6611,9 @@
           </Chord>
         </Measure>
       <Measure number="63">
+        <Harmony>
+          <name>vi64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -6248,6 +6647,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>#viio64/iii</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -6304,6 +6706,9 @@
           </Chord>
         </Measure>
       <Measure number="64">
+        <Harmony>
+          <name>V/vi]\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -6330,6 +6735,9 @@
           </Rest>
         </Measure>
       <Measure number="65">
+        <Harmony>
+          <name>vi</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -6385,6 +6793,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>#viio6/vi</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -6445,6 +6856,9 @@
           </Chord>
         </Measure>
       <Measure number="66">
+        <Harmony>
+          <name>vi6</name>
+          </Harmony>
         <Beam id="85">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -6587,6 +7001,9 @@
           </Chord>
         </Measure>
       <Measure number="67">
+        <Harmony>
+          <name>vi</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -6642,6 +7059,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>#viio6/vi</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -6702,6 +7122,9 @@
           </Chord>
         </Measure>
       <Measure number="68">
+        <Harmony>
+          <name>vi6</name>
+          </Harmony>
         <Beam id="91">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -6844,6 +7267,9 @@
           </Chord>
         </Measure>
       <Measure number="69">
+        <Harmony>
+          <name>iv/vi</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -6895,6 +7321,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>#viio6/ii</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -6953,6 +7382,9 @@
           </Chord>
         </Measure>
       <Measure number="70">
+        <Harmony>
+          <name>iv6/vi</name>
+          </Harmony>
         <Beam id="97">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -7058,6 +7490,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iv/vi</name>
+          </Harmony>
         <Beam id="100">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -7095,6 +7530,9 @@
           </Chord>
         </Measure>
       <Measure number="71">
+        <Harmony>
+          <name>V/vi</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -7113,6 +7551,9 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>VI/vi</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -7128,6 +7569,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii%65/vi</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Articulation>
@@ -7138,8 +7582,15 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <tick>135840</tick>
+        <Harmony>
+          <name>V/vi</name>
+          </Harmony>
         </Measure>
       <Measure number="72">
+        <Harmony>
+          <name>vi\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -7181,6 +7632,9 @@
           </Chord>
         </Measure>
       <Measure number="73">
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
@@ -7191,6 +7645,14 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <tick>138720</tick>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
+        <tick>139200</tick>
+        <Harmony>
+          <name>IV6</name>
+          </Harmony>
         <Slur id="7">
           <track>0</track>
           </Slur>
@@ -7210,6 +7672,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7238,6 +7703,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="8"/>
@@ -7282,6 +7750,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV6/IV</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7300,6 +7771,9 @@
             <tpc>9</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio/IV</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7330,6 +7804,9 @@
             <tpc>9</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="10"/>
@@ -7368,6 +7845,9 @@
           </Chord>
         </Measure>
       <Measure number="77">
+        <Harmony>
+          <name>V2</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -7386,6 +7866,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7416,6 +7899,9 @@
           </Chord>
         </Measure>
       <Measure number="78">
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -7434,6 +7920,14 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <tick>148320</tick>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
+        <tick>148800</tick>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7464,6 +7958,9 @@
           </Chord>
         </Measure>
       <Measure number="79">
+        <Harmony>
+          <name>V2</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -7482,6 +7979,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7512,6 +8012,9 @@
           </Chord>
         </Measure>
       <Measure number="80">
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -7530,6 +8033,14 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <tick>152160</tick>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
+        <tick>152640</tick>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7560,6 +8071,9 @@
           </Chord>
         </Measure>
       <Measure number="81">
+        <Harmony>
+          <name>IV(4)</name>
+          </Harmony>
         <Slur id="11">
           <track>0</track>
           </Slur>
@@ -7571,6 +8085,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -7603,6 +8120,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V65/V</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7619,6 +8139,9 @@
           </Chord>
         </Measure>
       <Measure number="82">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Articulation>
@@ -7631,8 +8154,19 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <tick>156480</tick>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
+        <tick>156960</tick>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         </Measure>
       <Measure number="83">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Articulation>
@@ -7646,8 +8180,19 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <tick>158400</tick>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
+        <tick>158880</tick>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         </Measure>
       <Measure number="84">
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Articulation>
@@ -7743,6 +8288,9 @@
           </Chord>
         </Measure>
       <Measure number="85">
+        <Harmony>
+          <name>I[I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -7784,6 +8332,9 @@
           </Chord>
         </Measure>
       <Measure number="86">
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -7814,6 +8365,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -7897,6 +8451,9 @@
           </Chord>
         </Measure>
       <Measure number="88">
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <grace4/>
@@ -7915,6 +8472,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -7981,6 +8541,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V43</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -8036,6 +8599,9 @@
           </Chord>
         </Measure>
       <Measure number="90">
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Beam id="103">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -8178,6 +8744,9 @@
           </Chord>
         </Measure>
       <Measure number="91">
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -8193,6 +8762,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -8208,6 +8780,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -8230,6 +8805,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -8254,6 +8832,9 @@
           </Chord>
         </Measure>
       <Measure number="92">
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -8307,6 +8888,9 @@
           </Rest>
         </Measure>
       <Measure number="93">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="107">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -8390,6 +8974,9 @@
           </Chord>
         </Measure>
       <Measure number="94">
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -8433,6 +9020,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
@@ -8449,6 +9039,9 @@
           </Rest>
         </Measure>
       <Measure number="95">
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <Beam id="110">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -8480,6 +9073,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Beam id="111">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -8519,6 +9115,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -8532,6 +9131,9 @@
           </Chord>
         </Measure>
       <Measure number="96">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -8539,6 +9141,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <grace16/>
@@ -8568,6 +9173,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
@@ -8584,6 +9192,9 @@
           </Rest>
         </Measure>
       <Measure number="97">
+        <Harmony>
+          <name>V6/ii</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -8591,6 +9202,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -8702,6 +9316,9 @@
           </Rest>
         </Measure>
       <Measure number="98">
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -8709,6 +9326,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -8820,6 +9440,9 @@
           </Rest>
         </Measure>
       <Measure number="99">
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Tuplet id="84">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -8853,6 +9476,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Beam id="114">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -8931,6 +9557,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio/V</name>
+          </Harmony>
         <Tuplet id="87">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -8966,6 +9595,9 @@
           </Chord>
         </Measure>
       <Measure number="100">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Beam id="116">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -9083,6 +9715,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio</name>
+          </Harmony>
         <Beam id="119">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -9124,6 +9759,9 @@
           </Chord>
         </Measure>
       <Measure number="101">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="120">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -9163,6 +9801,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6</name>
+          </Harmony>
         <Beam id="121">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -9202,6 +9843,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <grace16/>
@@ -9230,6 +9874,9 @@
           </Chord>
         </Measure>
       <Measure number="102">
+        <Harmony>
+          <name>I[I\\</name>
+          </Harmony>
         <Tuplet id="94">
           <visible>0</visible>
           <normalNotes>2</normalNotes>
@@ -9351,6 +9998,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
@@ -9363,6 +10013,9 @@
           <offset x="0" y="-2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
@@ -9377,6 +10030,9 @@
           </Rest>
         </Measure>
       <Measure number="104">
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Articulation>
@@ -9516,6 +10172,9 @@
           </Chord>
         </Measure>
       <Measure number="106">
+        <Harmony>
+          <name>V(64)</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -9531,6 +10190,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -9538,6 +10200,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          </Harmony>
         <Rest>
           <offset x="0" y="2"/>
           <durationType>quarter</durationType>
@@ -9573,6 +10238,9 @@
           </Chord>
         </Measure>
       <Measure number="107">
+        <Harmony>
+          <name>I[I</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -9598,6 +10266,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -9608,6 +10279,9 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -9620,6 +10294,9 @@
           </Rest>
         </Measure>
       <Measure number="108">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Articulation>
@@ -9652,6 +10329,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -9664,6 +10344,9 @@
           </Chord>
         </Measure>
       <Measure number="109">
+        <Harmony>
+          <name>I]</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -9692,6 +10375,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <grace16/>
@@ -9730,6 +10416,9 @@
           </Chord>
         </Measure>
       <Measure number="110">
+        <Harmony>
+          <name>I\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -9741,6 +10430,9 @@
           <subtype>f</subtype>
           <velocity>96</velocity>
           </Dynamic>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -9855,6 +10547,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -9883,6 +10578,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -9911,6 +10609,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -9943,6 +10644,9 @@
           </Chord>
         </Measure>
       <Measure number="112">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <move>1</move>
           <durationType>quarter</durationType>
@@ -9951,6 +10655,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -10065,6 +10772,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -10093,6 +10803,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -10121,6 +10834,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -10151,6 +10867,9 @@
           </Chord>
         </Measure>
       <Measure number="114">
+        <Harmony>
+          <name>V(4)</name>
+          </Harmony>
         <Chord>
           <move>1</move>
           <durationType>half</durationType>
@@ -10159,6 +10878,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Articulation>
@@ -10171,6 +10893,9 @@
           </Chord>
         </Measure>
       <Measure number="115">
+        <Harmony>
+          <name>I[I\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -10183,6 +10908,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10190,6 +10918,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10197,6 +10928,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10204,6 +10938,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10211,6 +10948,10 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          <pos x="0" y="-9"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10266,6 +11007,9 @@
           </Chord>
         </Measure>
       <Measure number="116">
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -10277,6 +11021,9 @@
           <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
+        <Harmony>
+          <name>IV64</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10288,6 +11035,9 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="124">
           </Beam>
         <Chord>
@@ -10302,6 +11052,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Beam>124</Beam>
@@ -10314,6 +11067,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Beam>124</Beam>
@@ -10326,6 +11082,10 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio6</name>
+          <pos x="-1" y="-6"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Beam>124</Beam>
@@ -10351,6 +11111,9 @@
         </Measure>
       <Measure number="117">
         <endRepeat>2</endRepeat>
+        <Harmony>
+          <name>I]\\</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -17286,8 +18049,8 @@
           <durationType>eighth</durationType>
           <Beam>167</Beam>
           <Note>
-            <pitch>68</pitch>
-            <tpc>10</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
