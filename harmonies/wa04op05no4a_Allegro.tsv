@@ -1,0 +1,245 @@
+mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	.Eb.I[I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+2	2	0	viio64	Eb	I	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+2	2	1/2	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+4	4	0	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+4	4	1/2	I]	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+5	5	1/2	V43	Eb	I		V43	V		43				Mm7	0	0	2, -1, 1, 5		1	2
+6	6	0	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+7	7	0	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+7	7	1/4	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+7	7	1/2	viio	Eb	I		viio	vii	o					o	0	0	5, 2, -1		5	5
+7	7	3/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+8	8	0	V\\	Eb	I		V	V					\\	M	0	0	1, 5, 2		1	1
+9	9	0	I[I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+10	10	0	viio64	Eb	I	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+10	10	1/2	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+12	12	0	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+12	12	1/2	I]	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+13	13	1/2	V43	Eb	I		V43	V		43				Mm7	0	0	2, -1, 1, 5		1	2
+14	14	0	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+15	15	0	IV6	Eb	I		IV6	IV		6				M	0	0	3, 0, -1		-1	3
+15	15	1/4	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+15	15	1/2	viio6	Eb	I		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+15	15	3/4	viio	Eb	I		viio	vii	o					o	0	0	5, 2, -1		5	5
+16	16	0	V\\	Eb	I		V	V					\\	M	0	0	1, 5, 2		1	1
+16	16	3/4	V.I6	Eb	V		I6	I		6				M	0	0	4, 1, 0		0	4
+17	17	0	I	Eb	V		I	I						M	0	0	0, 4, 1		0	0
+18	18	0	V6	Eb	V		V6	V		6				M	0	0	5, 2, 1		1	5
+18	18	1/2	viio6	Eb	V		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+19	19	0	V65	Eb	V		V65	V		65				Mm7	0	0	5, 2, -1, 1		1	5
+19	19	1/4	V6	Eb	V		V6	V		6				M	0	0	5, 2, 1		1	5
+19	19	3/4	V65	Eb	V		V65	V		65				Mm7	0	0	5, 2, -1, 1		1	5
+20	20	0	I	Eb	V		I	I						M	0	0	0, 4, 1		0	0
+20	20	1/4	viio6	Eb	V		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+20	20	1/2	I6	Eb	V		I6	I		6				M	0	0	4, 1, 0		0	4
+21	21	0	V6/ii	Eb	V		V6/ii	V		6		ii		M	0	0	7, 4, 3		3	7
+21	21	1/2	ii	Eb	V		ii	ii						m	0	0	2, -1, 3		2	2
+22	22	0	V6	Eb	V		V6	V		6				M	0	0	5, 2, 1		1	5
+22	22	1/2	I	Eb	V		I	I						M	0	0	0, 4, 1		0	0
+23	23	0	IV	Eb	V		IV	IV						M	0	0	-1, 3, 0		-1	-1
+23	23	1/4	IV6	Eb	V		IV6	IV		6				M	0	0	3, 0, -1		-1	3
+23	23	1/2	ii6	Eb	V		ii6	ii		6				m	0	0	-1, 3, 2		2	-1
+23	23	3/4	viio/V	Eb	V		viio/V	vii	o			V		o	0	0	6, 3, 0		6	6
+24	24	0	V[V\\	Eb	V	V	V	V					\\	M	0	0	1, 5, 2		1	1
+25	25	0	I64	Eb	V	V	I64	I		64				M	0	0	1, 0, 4		0	1
+25	25	3/4	viio6/V	Eb	V	V	viio6/V	vii	o	6		V		o	0	0	3, 0, 6		6	3
+26	26	0	V	Eb	V	V	V	V						M	0	0	1, 5, 2		1	1
+27	27	0	I64	Eb	V	V	I64	I		64				M	0	0	1, 0, 4		0	1
+27	27	3/4	viio6/V	Eb	V	V	viio6/V	vii	o	6		V		o	0	0	3, 0, 6		6	3
+28	28	0	V]\\	Eb	V	V	V	V					\\	M	0	0	1, 5, 2		1	1
+28	28	1/4	V6	Eb	V		V6	V		6				M	0	0	5, 2, 1		1	5
+28	28	1/2	V	Eb	V		V	V						M	0	0	1, 5, 2		1	1
+28	28	3/4	V43	Eb	V		V43	V		43				Mm7	0	0	2, -1, 1, 5		1	2
+29	29	0	I[I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+29	29	1/2	IV64	Eb	V	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+29	29	3/4	viio64	Eb	V	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+30	30	0	I]	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+32	32	0	V(64)	Eb	V		V(64)	V			64			M	0	0	1, 0, 4		1	1
+32	32	1/2	V\\	Eb	V		V	V					\\	M	0	0	1, 5, 2		1	1
+32	32	3/4	viio6	Eb	V		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+33	33	0	I[I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+33	33	1/2	IV64	Eb	V	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+33	33	3/4	viio64	Eb	V	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+34	34	0	I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+34	34	3/4	IV64	Eb	V	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+35	35	0	I]	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+35	35	1/2	V	Eb	V		V	V						M	0	0	1, 5, 2		1	1
+36	36	0	I\\	Eb	V		I	I					\\	M	0	0	0, 4, 1		0	0
+36	36	1/4	I6	Eb	V		I6	I		6				M	0	0	4, 1, 0		0	4
+37	37	1/4	I	Eb	V		I	I						M	0	0	0, 4, 1		0	0
+37	37	1/2	I6	Eb	V		I6	I		6				M	0	0	4, 1, 0		0	4
+37	37	3/4	V7	Eb	V		V7	V		7				Mm7	0	0	1, 5, 2, -1		1	1
+38	38	0	I	Eb	V		I	I						M	0	0	0, 4, 1		0	0
+38	38	1/4	I6	Eb	V		I6	I		6				M	0	0	4, 1, 0		0	4
+39	39	1/4	I	Eb	V		I	I						M	0	0	0, 4, 1		0	0
+39	39	1/2	IV	Eb	V		IV	IV						M	0	0	-1, 3, 0		-1	-1
+39	39	3/4	V6/V	Eb	V		V6/V	V		6		V		M	0	0	6, 3, 2		2	6
+40	40	0	V(4)	Eb	V		V(4)	V			4			M	0	0	1, 0, 2		1	1
+40	40	1/2	V	Eb	V		V	V						M	0	0	1, 5, 2		1	1
+41	41	0	I[I\\	Eb	V	I	I	I					\\	M	0	0	0, 4, 1		0	0
+41	41	3/8	IV64	Eb	V	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+41	41	1/2	V	Eb	V	I	V	V						M	0	0	1, 5, 2		1	1
+41	41	5/8	IV64	Eb	V	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+41	41	3/4	I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+41	41	7/8	viio6	Eb	V	I	viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+42	42	0	I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+42	42	3/8	IV64	Eb	V	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+42	42	1/2	I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+42	42	5/8	ii6	Eb	V	I	ii6	ii		6				m	0	0	-1, 3, 2		2	-1
+42	42	3/4	I	Eb	V	I	I	I						M	0	0	0, 4, 1		0	0
+42	42	7/8	viio6	Eb	V	I	viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+43	43	0	I]\\	Eb	V	I	I	I					\\	M	0	0	0, 4, 1		0	0
+46	46	0	I.V2	Eb	I		V2	V		2				Mm7	0	0	-1, 1, 5, 2		1	-1
+48	48	0	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+48	48	1/4	I64	Eb	I		I64	I		64				M	0	0	1, 0, 4		0	1
+49	49	0	V64	Eb	I		V64	V		64				M	0	0	2, 1, 5		1	2
+49	49	1/4	V2	Eb	I		V2	V		2				Mm7	0	0	-1, 1, 5, 2		1	-1
+49	49	1/2	V7	Eb	I		V7	V		7				Mm7	0	0	1, 5, 2, -1		1	1
+49	49	3/4	V2	Eb	I		V2	V		2				Mm7	0	0	-1, 1, 5, 2		1	-1
+50	50	0	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+52	52	0	V2/IV	Eb	I		V2/IV	V		2		IV		Mm7	0	0	-2, 0, 4, 1		0	-2
+54	54	0	IV6	Eb	I		IV6	IV		6				M	0	0	3, 0, -1		-1	3
+54	54	1/4	IV64	Eb	I		IV64	IV		64				M	0	0	0, -1, 3		-1	0
+55	55	0	V64/IV	Eb	I		V64/IV	V		64		IV		M	0	0	1, 0, 4		0	1
+55	55	1/4	V/IV	Eb	I		V/IV	V				IV		M	0	0	0, 4, 1		0	0
+55	55	1/2	V7/IV	Eb	I		V7/IV	V		7		IV		Mm7	0	0	0, 4, 1, -2		0	0
+55	55	3/4	V/IV	Eb	I		V/IV	V				IV		M	0	0	0, 4, 1		0	0
+56	56	0	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+56	56	1/4	V(64)/ii	Eb	I		V(64)/ii	V			64	ii		M	0	0	3, 2, -1		3	3
+56	56	1/2	V43/ii	Eb	I		V43/ii	V		43		ii		Mm7	0	0	4, 1, 3, 7		3	4
+56	56	3/4	V7/ii	Eb	I		V7/ii	V		7		ii		Mm7	0	0	3, 7, 4, 1		3	3
+57	57	0	ii	Eb	I		ii	ii						m	0	0	2, -1, 3		2	2
+57	57	1/4	ii64	Eb	I		ii64	ii		64				m	0	0	3, 2, -1		2	3
+57	57	1/2	vi6	Eb	I		vi6	vi		6				m	0	0	0, 4, 3		3	0
+57	57	3/4	vi	Eb	I		vi	vi						m	0	0	3, 0, 4		3	3
+58	58	0	V43/vi	Eb	I		V43/vi	V		43		vi		Mm7	0	0	5, 2, 4, 8		4	5
+58	58	1/4	V7/vi	Eb	I		V7/vi	V		7		vi		Mm7	0	0	4, 8, 5, 2		4	4
+58	58	1/2	vi	Eb	I		vi	vi						m	0	0	3, 0, 4		3	3
+58	58	3/4	vi64	Eb	I		vi64	vi		64				m	0	0	4, 3, 0		3	4
+59	59	0	iio6/vi	Eb	I		iio6/vi	ii	o	6		vi		o	0	0	2, -1, 5		5	2
+59	59	1/4	iio64/vi	Eb	I		iio64/vi	ii	o	64		vi		o	0	0	-1, 5, 2		5	-1
+59	59	1/2	#viio7/iii	Eb	I		#viio7/iii	#vii	o	7		iii		o7	0	0	9, 6, 3, 0		9	9
+59	59	3/4	iio/iii	Eb	I		iio/iii	ii	o			iii		o	0	0	6, 3, 0		6	6
+60	60	0	iii[V/vi\\	Eb	I	iii	V/vi	V				vi	\\	M	0	0	4, 8, 5		4	4
+61	61	0	vi64	Eb	I	iii	vi64	vi		64				m	0	0	4, 3, 0		3	4
+61	61	3/4	#viio64/iii	Eb	I	iii	#viio64/iii	#vii	o	64		iii		o	0	0	3, 9, 6		9	3
+62	62	0	V/vi	Eb	I	iii	V/vi	V				vi		M	0	0	4, 8, 5		4	4
+63	63	0	vi64	Eb	I	iii	vi64	vi		64				m	0	0	4, 3, 0		3	4
+63	63	3/4	#viio64/iii	Eb	I	iii	#viio64/iii	#vii	o	64		iii		o	0	0	3, 9, 6		9	3
+64	64	0	V/vi]\\	Eb	I	iii	V/vi	V				vi	\\	M	0	0	4, 8, 5		4	4
+65	65	0	vi	Eb	I		vi	vi						m	0	0	3, 0, 4		3	3
+65	65	1/2	#viio6/vi	Eb	I		#viio6/vi	#vii	o	6		vi		o	0	0	5, 2, 8		8	5
+66	66	0	vi6	Eb	I		vi6	vi		6				m	0	0	0, 4, 3		3	0
+67	67	0	vi	Eb	I		vi	vi						m	0	0	3, 0, 4		3	3
+67	67	1/2	#viio6/vi	Eb	I		#viio6/vi	#vii	o	6		vi		o	0	0	5, 2, 8		8	5
+68	68	0	vi6	Eb	I		vi6	vi		6				m	0	0	0, 4, 3		3	0
+69	69	0	iv/vi	Eb	I		iv/vi	iv				vi		m	0	0	2, -1, 3		2	2
+69	69	1/2	#viio6/ii	Eb	I		#viio6/ii	#vii	o	6		ii		o	0	0	4, 1, 7		7	4
+70	70	0	iv6/vi	Eb	I		iv6/vi	iv		6		vi		m	0	0	-1, 3, 2		2	-1
+70	70	3/4	iv/vi	Eb	I		iv/vi	iv				vi		m	0	0	2, -1, 3		2	2
+71	71	0	V/vi	Eb	I		V/vi	V				vi		M	0	0	4, 8, 5		4	4
+71	71	1/4	VI/vi	Eb	I		VI/vi	VI				vi		M	0	0	-1, 3, 0		-1	-1
+71	71	1/2	ii%65/vi	Eb	I		ii%65/vi	ii	%	65		vi		%7	0	0	4, 11, 3, 5		5	4
+71	71	3/4	V/vi	Eb	I		V/vi	V				vi		M	0	0	4, 8, 5		4	4
+72	72	0	vi\\	Eb	I		vi	vi					\\	m	0	0	3, 0, 4		3	3
+73	73	0	V6	Eb	I		V6	V		6				M	0	0	5, 2, 1		1	5
+73	73	1/4	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+73	73	1/2	IV6	Eb	I		IV6	IV		6				M	0	0	3, 0, -1		-1	3
+73	73	3/4	viio	Eb	I		viio	vii	o					o	0	0	5, 2, -1		5	5
+74	74	1/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+75	75	1/2	IV6/IV	Eb	I		IV6/IV	IV		6		IV		M	0	0	2, -1, -2		-2	2
+75	75	3/4	viio/IV	Eb	I		viio/IV	vii	o			IV		o	0	0	4, 1, -2		4	4
+76	76	1/4	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+77	77	0	V2	Eb	I		V2	V		2				Mm7	0	0	-1, 1, 5, 2		1	-1
+77	77	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+78	78	0	ii	Eb	I		ii	ii						m	0	0	2, -1, 3		2	2
+78	78	1/4	V7	Eb	I		V7	V		7				Mm7	0	0	1, 5, 2, -1		1	1
+78	78	1/2	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+79	79	0	V2	Eb	I		V2	V		2				Mm7	0	0	-1, 1, 5, 2		1	-1
+79	79	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+80	80	0	ii	Eb	I		ii	ii						m	0	0	2, -1, 3		2	2
+80	80	1/4	V7	Eb	I		V7	V		7				Mm7	0	0	1, 5, 2, -1		1	1
+80	80	1/2	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+81	81	0	IV(4)	Eb	I		IV(4)	IV			4			M	0	0	-1, 5, 0		-1	-1
+81	81	1/4	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+81	81	3/4	V65/V	Eb	I		V65/V	V		65		V		Mm7	0	0	6, 3, 0, 2		2	6
+82	82	0	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+82	82	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+82	82	3/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+83	83	0	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+83	83	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+83	83	3/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+84	84	0	V\\	Eb	I		V	V					\\	M	0	0	1, 5, 2		1	1
+85	85	0	I[I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+86	86	0	viio64	Eb	I	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+86	86	1/2	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+88	88	0	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+88	88	1/2	I]	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+89	89	1/2	V43	Eb	I		V43	V		43				Mm7	0	0	2, -1, 1, 5		1	2
+90	90	0	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+91	91	0	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+91	91	1/4	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+91	91	1/2	viio	Eb	I		viio	vii	o					o	0	0	5, 2, -1		5	5
+91	91	3/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+92	92	0	V\\	Eb	I		V	V					\\	M	0	0	1, 5, 2		1	1
+93	93	0	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+94	94	0	V6	Eb	I		V6	V		6				M	0	0	5, 2, 1		1	5
+94	94	1/2	viio6	Eb	I		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+95	95	0	V65	Eb	I		V65	V		65				Mm7	0	0	5, 2, -1, 1		1	5
+95	95	1/4	V6	Eb	I		V6	V		6				M	0	0	5, 2, 1		1	5
+95	95	3/4	V65	Eb	I		V65	V		65				Mm7	0	0	5, 2, -1, 1		1	5
+96	96	0	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+96	96	1/4	viio6	Eb	I		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+96	96	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+97	97	0	V6/ii	Eb	I		V6/ii	V		6		ii		M	0	0	7, 4, 3		3	7
+97	97	1/2	ii	Eb	I		ii	ii						m	0	0	2, -1, 3		2	2
+98	98	0	V6	Eb	I		V6	V		6				M	0	0	5, 2, 1		1	5
+98	98	1/2	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+99	99	0	IV	Eb	I		IV	IV						M	0	0	-1, 3, 0		-1	-1
+99	99	1/4	ii	Eb	I		ii	ii						m	0	0	2, -1, 3		2	2
+99	99	3/4	viio/V	Eb	I		viio/V	vii	o			V		o	0	0	6, 3, 0		6	6
+100	100	0	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+100	100	3/4	viio	Eb	I		viio	vii	o					o	0	0	5, 2, -1		5	5
+101	101	0	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+101	101	1/4	ii6	Eb	I		ii6	ii		6				m	0	0	-1, 3, 2		2	-1
+101	101	1/2	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+102	102	0	I[I\\	Eb	I	I	I	I					\\	M	0	0	0, 4, 1		0	0
+103	103	1/2	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+103	103	3/4	viio64	Eb	I	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+104	104	0	I]	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+106	106	0	V(64)	Eb	I		V(64)	V			64			M	0	0	1, 0, 4		1	1
+106	106	1/2	V\\	Eb	I		V	V					\\	M	0	0	1, 5, 2		1	1
+106	106	3/4	viio6	Eb	I		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+107	107	0	I[I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+107	107	1/2	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+107	107	3/4	viio64	Eb	I	I	viio64	vii	o	64				o	0	0	-1, 5, 2		5	-1
+108	108	0	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+108	108	3/4	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+109	109	0	I]	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+109	109	1/2	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+110	110	0	I\\	Eb	I		I	I					\\	M	0	0	0, 4, 1		0	0
+110	110	1/4	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+111	111	1/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+111	111	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+111	111	3/4	V7	Eb	I		V7	V		7				Mm7	0	0	1, 5, 2, -1		1	1
+112	112	0	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+112	112	1/4	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+113	113	1/4	I	Eb	I		I	I						M	0	0	0, 4, 1		0	0
+113	113	1/2	I6	Eb	I		I6	I		6				M	0	0	4, 1, 0		0	4
+113	113	3/4	ii6	Eb	I		ii6	ii		6				m	0	0	-1, 3, 2		2	-1
+114	114	0	V(4)	Eb	I		V(4)	V			4			M	0	0	1, 0, 2		1	1
+114	114	1/2	V	Eb	I		V	V						M	0	0	1, 5, 2		1	1
+115	115	0	I[I\\	Eb	I	I	I	I					\\	M	0	0	0, 4, 1		0	0
+115	115	3/8	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+115	115	1/2	V	Eb	I	I	V	V						M	0	0	1, 5, 2		1	1
+115	115	5/8	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+115	115	3/4	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+115	115	7/8	viio6	Eb	I	I	viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+116	116	0	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+116	116	3/8	IV64	Eb	I	I	IV64	IV		64				M	0	0	0, -1, 3		-1	0
+116	116	1/2	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+116	116	5/8	ii6	Eb	I	I	ii6	ii		6				m	0	0	-1, 3, 2		2	-1
+116	116	3/4	I	Eb	I	I	I	I						M	0	0	0, 4, 1		0	0
+116	116	7/8	viio6	Eb	I	I	viio6	vii	o	6				o	0	0	2, -1, 5		5	2
+117	117	0	I]\\	Eb	I	I	I	I					\\	M	0	0	0, 4, 1		0	0
