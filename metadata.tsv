@@ -1,30 +1,59 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	musescore	annotator	composed_start	composed_end
-MS3/wa01op05no1a_Allegretto.mscx	wa01op05no1a_Allegretto	.mscx	e8d0ef51393d67f20c4a6f9ea77335ef	137	-2	2/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa01op05no1b_Tempo_di_Minuetto.mscx	wa01op05no1b_Tempo_di_Minuetto	.mscx	a0262dfdf8ff754f7273e81c997692ce	147	-2	3/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa02op05no2a_Allegro_di_molto.mscx	wa02op05no2a_Allegro_di_molto	.mscx	f45c6afa353431f8afe6b2d6643a2824	260	2	4/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa02op05no2b_Andante_di_molto.mscx	wa02op05no2b_Andante_di_molto	.mscx	39f3ece6d6f1b0b82f476e447ff0cbc0	126	1	2/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa02op05no2c_Minuetto.mscx	wa02op05no2c_Minuetto	.mscx	e98a051315aa506248544945d38d02a4	74	2	3/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa02op05no2d_Minore.mscx	wa02op05no2d_Minore	.mscx	2a6395a3fac24696605e141e7601b0a9	64	-1	3/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa03op05no3a_Allegro.mscx	wa03op05no3a_Allegro	.mscx	0fcc6c6ecb0120f71459a5349db56680	239	1	4/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa03op05no3b_Allegretto.mscx	wa03op05no3b_Allegretto	.mscx	a7b6d61eeb0093c00d212b9513d4785e	125	1	2/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa04op05no4a_Allegro.mscx	wa04op05no4a_Allegro	.mscx	ffb8c415e9c6ad44615e4ee3ab398798	244	-3	4/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa04op05no4b_Rondeaux.mscx	wa04op05no4b_Rondeaux	.mscx	05d7132891d6ac6366f62b02851deeea	193	-3	3/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa05op05no5a_Allegro_Assai.mscx	wa05op05no5a_Allegro_Assai	.mscx	8b20ab59831233c11da96c40c0798606	267	4	4/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa05op05no5b_Adagio.mscx	wa05op05no5b_Adagio	.mscx	869273537f2d688fed69b82c1dc8f884	130	3	3/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa05op05no5c_Prestissimo.mscx	wa05op05no5c_Prestissimo	.mscx	82c699694612be030fc266a435e9b382	196	4, 1, 4	2/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa06op05no6a_Grave.mscx	wa06op05no6a_Grave	.mscx	55bf1bf1261f33f90a865b36c83a6611	164	-3	3/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa06op05no6b_Allegro_Moderato.mscx	wa06op05no6b_Allegro_Moderato	.mscx	2cb1c90271faca1f1a278d6b7d6c8606	282	-3	4/4	3.4.2	Adrian Nagel	1765	1765
-MS3/wa06op05no6c_Allegretto.mscx	wa06op05no6c_Allegretto	.mscx	58729471f30df2ce2fbff4340a9f2907	152	-3	2/2	3.4.2	Adrian Nagel	1765	1765
-MS3/wa07op17no1a_Minuetto_Con_Variatione.mscx	wa07op17no1a_Minuetto_Con_Variatione	.mscx	c06ff3ead58951dc16bd090b1043a80d	0	1	3/4	3.4.2		1780	1780
-MS3/wa08op17no2a_Allegro.mscx	wa08op17no2a_Allegro	.mscx	08bc4f9b16ea765366fd8732c20b1765	0	-3	2/4	3.4.2		1780	1780
-MS3/wa08op17no2b_Andante.mscx	wa08op17no2b_Andante	.mscx	df81ed79dca31c3b06d04d5d6dfc645f	0	-3	4/4	3.4.2		1780	1780
-MS3/wa08op17no2c_Prestissimo.mscx	wa08op17no2c_Prestissimo	.mscx	025e36a29291fc98b974a10fe0d865d5	0	-3	12/8	3.4.2		1780	1780
-MS3/wa09op17no3a_Allegro_Assai.mscx	wa09op17no3a_Allegro_Assai	.mscx	fa6586641f41e4443f5b7cad80a46af3	0	-3	4/4	3.4.2		1780	1780
-MS3/wa09op17no3b_Allegro.mscx	wa09op17no3b_Allegro	.mscx	f204c31d9ba5a5bfb6f92678d071318f	0	-3	3/8	3.4.2		1780	1780
-MS3/wa10op17no4a_Allegro.mscx	wa10op17no4a_Allegro	.mscx	eac17e9b10a74f9b3f017f0e83b27b68	0	1	4/4	3.4.2		1780	1780
-MS3/wa10op17no4b_Presto_Assai.mscx	wa10op17no4b_Presto_Assai	.mscx	ca007431b4070d34e066bed447a70910	0	1	3/8	3.4.2		1780	1780
-MS3/wa11op17no5a_Allegro.mscx	wa11op17no5a_Allegro	.mscx	699f2b570f9444ba460e1e323da0521e	0	3	4/4	3.4.2		1780	1780
-MS3/wa11op17no5b_Presto.mscx	wa11op17no5b_Presto	.mscx	c1ceb1a646cadde2a37a2969bc21e7d2	0	3	3/8	3.4.2		1780	1780
-MS3/wa12op17no6a_Allegro.mscx	wa12op17no6a_Allegro	.mscx	25c1de253c9b415f50921e6bc3058a04	0	-2	4/4	3.4.2		1780	1780
-MS3/wa12op17no6b_Andante.mscx	wa12op17no6b_Andante	.mscx	99e978663ae5c79895f74163374c94b8	0	-3	4/4	3.4.2		1780	1780
-MS3/wa12op17no6c_Prestissimo.mscx	wa12op17no6c_Prestissimo	.mscx	fed31fa7d7507b082fb997123b5d96ef	0	-2	12/8	3.4.2		1780	1780
+		last_mc	last_mn	KeySig	TimeSig	label_count	annotated_key	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	platform	source	translator	musescore	ambitus	annotator	composed_end	composed_start	extension	md5	originalFormat	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
+MS3	wa01op05no1a_Allegretto	84	82	1: -2	1: 2/4	137	Bb										2020-04-22	Microsoft Windows			3.4.2	39-86 (Eb2-D6)						musicxml	59-86 (B3-D6)	Piano	39-69 (Eb2-A4)	Piano
+MS3	wa01op05no1b_Tempo_di_Minuetto	74	74	1: -2	1: 3/4	147	Bb										2020-04-22	Microsoft Windows			3.4.2	38-86 (D2-D6)							48-86 (C3-D6)	Piano	38-72 (D2-C5)	Piano
+MS3	wa02op05no2a_Allegro_di_molto	111	111	1: 2	1: 4/4	260	D										2020-04-22	Microsoft Windows			3.4.2	35-88 (B1-E6)							54-88 (F#3-E6)	Piano	35-71 (B1-B4)	Piano
+MS3	wa02op05no2b_Andante_di_molto	52	50	1: 1	1: 2/4	126	G										2020-04-29	Microsoft Windows			3.4.2	33-86 (A1-D6)							62-86 (D4-D6)	Piano	33-69 (A1-A4)	Piano
+MS3	wa02op05no2c_Minuetto	28	28	1: 2	1: 3/4	74	D										2020-04-29	Microsoft Windows			3.4.2	38-83 (D2-B5)							57-83 (A3-B5)	Piano	38-62 (D2-D4)	Piano
+MS3	wa02op05no2d_Minore	24	24	1: -1	1: 3/4	64	d										2020-04-29	Microsoft Windows			3.4.2	38-84 (D2-C6)							61-84 (C#4-C6)	Piano	38-62 (D2-D4)	Piano
+MS3	wa03op05no3a_Allegro	83	81	1: 1	1: 4/4	239	G										2020-04-29	Microsoft Windows			3.4.2	35-88 (B1-E6)							54-88 (F#3-E6)	Piano	35-78 (B1-F#5)	Piano
+MS3	wa03op05no3b_Allegretto	80	16	1: 1	1: 2/4	125	G										2020-04-30	Microsoft Windows			3.4.2	36-84 (C2-C6)							55-84 (G3-C6)	Piano	36-62 (C2-D4)	Piano
+MS3	wa04op05no4a_Allegro	117	117	1: -3	1: 4/4	244	Eb										2020-04-30	Microsoft Windows			3.4.2	32-87 (Ab1-Eb6)							50-87 (D3-Eb6)	Piano	32-80 (Ab1-Ab5)	Piano
+MS3	wa04op05no4b_Rondeaux	69	69	1: -3	1: 3/4	193	Eb										2020-04-30	Microsoft Windows			3.4.2	38-87 (D2-Eb6)							58-87 (Bb3-Eb6)	Piano	38-84 (D2-C6)	Piano
+MS3	wa05op05no5a_Allegro_Assai	99	99	1: 4	1: 4/4	267	E										2020-04-30	Microsoft Windows			3.4.2	35-88 (B1-E6)							47-88 (B2-E6)	Piano	35-76 (B1-E5)	Piano
+MS3	wa05op05no5b_Adagio	55	55	1: 3	1: 3/4	130	A										2020-04-30	Microsoft Windows			3.4.2	40-86 (E2-D6)							59-86 (B3-D6)	Piano	40-66 (E2-F#4)	Piano
+MS3	wa05op05no5c_Prestissimo	104	102	1: 4, 40: 1, 59: 4	1: 2/4	196	E										2020-04-30	Microsoft Windows			3.4.2	38-88 (D2-E6)							59-88 (B3-E6)	Piano	38-75 (D2-D#5)	Piano
+MS3	wa06op05no6a_Grave	61	61	1: -3	1: 3/4	164	c										2020-05-01	Microsoft Windows			3.4.2	36-84 (C2-C6)							55-84 (G3-C6)	Piano	36-70 (C2-Bb4)	Piano
+MS3	wa06op05no6b_Allegro_Moderato	77	77	1: -3	1: 4/4	282	c										2020-05-01	Microsoft Windows			3.4.2	36-84 (C2-C6)							58-84 (Bb3-C6)	Piano	36-68 (C2-Ab4)	Piano
+MS3	wa06op05no6c_Allegretto	49	46	1: -3	1: 2/2	152	c										2020-05-02	Microsoft Windows			3.4.2	36-86 (C2-D6)							55-86 (G3-D6)	Piano	36-65 (C2-F4)	Piano
+MS3	wa07op17no1a_Minuetto_Con_Variatione	108	18	1: 1	1: 3/4	0											2020-05-02	Microsoft Windows			3.4.2	38-84 (D2-C6)							55-84 (G3-C6)	Piano	38-67 (D2-G4)	Piano
+MS3	wa08op17no2a_Allegro	123	121	1: -3	1: 2/4	0											2020-05-02	Microsoft Windows			3.4.2	36-84 (C2-C6)							51-84 (Eb3-C6)	Piano	36-73 (C2-Db5)	Piano
+MS3	wa08op17no2b_Andante	71	71	1: -3	1: 4/4	0											2020-05-02	Microsoft Windows			3.4.2	39-87 (Eb2-Eb6)							55-87 (G3-Eb6)	Piano	39-72 (Eb2-C5)	Piano
+MS3	wa08op17no2c_Prestissimo	103	101	1: -3	1: 12/8	0											2020-05-03	Microsoft Windows			3.4.2	33-87 (A1-Eb6)							50-87 (D3-Eb6)	Piano	33-75 (A1-Eb5)	Piano
+MS3	wa09op17no3a_Allegro_Assai	115	115	1: -3	1: 4/4	0											2020-05-03	Microsoft Windows			3.4.2	34-87 (Bb1-Eb6)							46-87 (Bb2-Eb6)	Piano	34-75 (Bb1-Eb5)	Piano
+MS3	wa09op17no3b_Allegro	111	111	1: -3	1: 3/8	0											2020-05-04	Microsoft Windows			3.4.2	38-89 (D2-F6)							55-89 (G3-F6)	Piano	38-77 (D2-F5)	Piano
+MS3	wa10op17no4a_Allegro	100	98	1: 1	1: 4/4	0											2020-05-04	Microsoft Windows			3.4.2	34-86 (A#1-D6)							57-86 (A3-D6)	Piano	34-67 (A#1-G4)	Piano
+MS3	wa10op17no4b_Presto_Assai	99	99	1: 1	1: 3/8	0											2020-05-04	Microsoft Windows			3.4.2	38-86 (D2-D6)							59-86 (B3-D6)	Piano	38-67 (D2-G4)	Piano
+MS3	wa11op17no5a_Allegro	103	102	1: 3	1: 4/4	0											2020-05-05	Microsoft Windows			3.4.2	38-88 (D2-E6)							50-88 (D3-E6)	Piano	38-76 (D2-E5)	Piano
+MS3	wa11op17no5b_Presto	127	127	1: 3	1: 3/8	0											2020-05-05	Microsoft Windows			3.4.2	33-85 (A1-C#6)							56-85 (G#3-C#6)	Piano	33-71 (A1-B4)	Piano
+MS3	wa12op17no6a_Allegro	120	118	1: -2	1: 4/4	0											2020-05-05	Microsoft Windows			3.4.2	34-89 (Bb1-F6)							55-89 (G3-F6)	Piano	34-75 (Bb1-Eb5)	Piano
+MS3	wa12op17no6b_Andante	74	74	1: -3	1: 4/4	0											2020-05-05	Microsoft Windows			3.4.2	34-89 (Bb1-F6)							51-89 (Eb3-F6)	Piano	34-68 (Bb1-Ab4)	Piano
+MS3	wa12op17no6c_Prestissimo	107	105	1: -2	1: 12/8	0											2020-05-06	Microsoft Windows			3.4.2	29-89 (F1-F6)							38-89 (D2-F6)	Piano	29-72 (F1-C5)	Piano
+MS3/wa01op05no1a_Allegretto.mscx	wa01op05no1a_Allegretto			-2	2/4	137															3.4.2		Adrian Nagel	1765	1765	.mscx	e8d0ef51393d67f20c4a6f9ea77335ef					
+MS3/wa01op05no1b_Tempo_di_Minuetto.mscx	wa01op05no1b_Tempo_di_Minuetto			-2	3/4	147															3.4.2		Adrian Nagel	1765	1765	.mscx	a0262dfdf8ff754f7273e81c997692ce					
+MS3/wa02op05no2a_Allegro_di_molto.mscx	wa02op05no2a_Allegro_di_molto			2	4/4	260															3.4.2		Adrian Nagel	1765	1765	.mscx	f45c6afa353431f8afe6b2d6643a2824					
+MS3/wa02op05no2b_Andante_di_molto.mscx	wa02op05no2b_Andante_di_molto			1	2/4	126															3.4.2		Adrian Nagel	1765	1765	.mscx	39f3ece6d6f1b0b82f476e447ff0cbc0					
+MS3/wa02op05no2c_Minuetto.mscx	wa02op05no2c_Minuetto			2	3/4	74															3.4.2		Adrian Nagel	1765	1765	.mscx	e98a051315aa506248544945d38d02a4					
+MS3/wa02op05no2d_Minore.mscx	wa02op05no2d_Minore			-1	3/4	64															3.4.2		Adrian Nagel	1765	1765	.mscx	2a6395a3fac24696605e141e7601b0a9					
+MS3/wa03op05no3a_Allegro.mscx	wa03op05no3a_Allegro			1	4/4	239															3.4.2		Adrian Nagel	1765	1765	.mscx	0fcc6c6ecb0120f71459a5349db56680					
+MS3/wa03op05no3b_Allegretto.mscx	wa03op05no3b_Allegretto			1	2/4	125															3.4.2		Adrian Nagel	1765	1765	.mscx	a7b6d61eeb0093c00d212b9513d4785e					
+MS3/wa04op05no4a_Allegro.mscx	wa04op05no4a_Allegro			-3	4/4	244															3.4.2		Adrian Nagel	1765	1765	.mscx	ffb8c415e9c6ad44615e4ee3ab398798					
+MS3/wa04op05no4b_Rondeaux.mscx	wa04op05no4b_Rondeaux			-3	3/4	193															3.4.2		Adrian Nagel	1765	1765	.mscx	05d7132891d6ac6366f62b02851deeea					
+MS3/wa05op05no5a_Allegro_Assai.mscx	wa05op05no5a_Allegro_Assai			4	4/4	267															3.4.2		Adrian Nagel	1765	1765	.mscx	8b20ab59831233c11da96c40c0798606					
+MS3/wa05op05no5b_Adagio.mscx	wa05op05no5b_Adagio			3	3/4	130															3.4.2		Adrian Nagel	1765	1765	.mscx	869273537f2d688fed69b82c1dc8f884					
+MS3/wa05op05no5c_Prestissimo.mscx	wa05op05no5c_Prestissimo			4, 1, 4	2/4	196															3.4.2		Adrian Nagel	1765	1765	.mscx	82c699694612be030fc266a435e9b382					
+MS3/wa06op05no6a_Grave.mscx	wa06op05no6a_Grave			-3	3/4	164															3.4.2		Adrian Nagel	1765	1765	.mscx	55bf1bf1261f33f90a865b36c83a6611					
+MS3/wa06op05no6b_Allegro_Moderato.mscx	wa06op05no6b_Allegro_Moderato			-3	4/4	282															3.4.2		Adrian Nagel	1765	1765	.mscx	2cb1c90271faca1f1a278d6b7d6c8606					
+MS3/wa06op05no6c_Allegretto.mscx	wa06op05no6c_Allegretto			-3	2/2	152															3.4.2		Adrian Nagel	1765	1765	.mscx	58729471f30df2ce2fbff4340a9f2907					
+MS3/wa07op17no1a_Minuetto_Con_Variatione.mscx	wa07op17no1a_Minuetto_Con_Variatione			1	3/4	0															3.4.2			1780	1780	.mscx	c06ff3ead58951dc16bd090b1043a80d					
+MS3/wa08op17no2a_Allegro.mscx	wa08op17no2a_Allegro			-3	2/4	0															3.4.2			1780	1780	.mscx	08bc4f9b16ea765366fd8732c20b1765					
+MS3/wa08op17no2b_Andante.mscx	wa08op17no2b_Andante			-3	4/4	0															3.4.2			1780	1780	.mscx	df81ed79dca31c3b06d04d5d6dfc645f					
+MS3/wa08op17no2c_Prestissimo.mscx	wa08op17no2c_Prestissimo			-3	12/8	0															3.4.2			1780	1780	.mscx	025e36a29291fc98b974a10fe0d865d5					
+MS3/wa09op17no3a_Allegro_Assai.mscx	wa09op17no3a_Allegro_Assai			-3	4/4	0															3.4.2			1780	1780	.mscx	fa6586641f41e4443f5b7cad80a46af3					
+MS3/wa09op17no3b_Allegro.mscx	wa09op17no3b_Allegro			-3	3/8	0															3.4.2			1780	1780	.mscx	f204c31d9ba5a5bfb6f92678d071318f					
+MS3/wa10op17no4a_Allegro.mscx	wa10op17no4a_Allegro			1	4/4	0															3.4.2			1780	1780	.mscx	eac17e9b10a74f9b3f017f0e83b27b68					
+MS3/wa10op17no4b_Presto_Assai.mscx	wa10op17no4b_Presto_Assai			1	3/8	0															3.4.2			1780	1780	.mscx	ca007431b4070d34e066bed447a70910					
+MS3/wa11op17no5a_Allegro.mscx	wa11op17no5a_Allegro			3	4/4	0															3.4.2			1780	1780	.mscx	699f2b570f9444ba460e1e323da0521e					
+MS3/wa11op17no5b_Presto.mscx	wa11op17no5b_Presto			3	3/8	0															3.4.2			1780	1780	.mscx	c1ceb1a646cadde2a37a2969bc21e7d2					
+MS3/wa12op17no6a_Allegro.mscx	wa12op17no6a_Allegro			-2	4/4	0															3.4.2			1780	1780	.mscx	25c1de253c9b415f50921e6bc3058a04					
+MS3/wa12op17no6b_Andante.mscx	wa12op17no6b_Andante			-3	4/4	0															3.4.2			1780	1780	.mscx	99e978663ae5c79895f74163374c94b8					
+MS3/wa12op17no6c_Prestissimo.mscx	wa12op17no6c_Prestissimo			-2	12/8	0															3.4.2			1780	1780	.mscx	fed31fa7d7507b082fb997123b5d96ef					
