@@ -74,7 +74,9 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1780</metaTag>
+    <metaTag name="composed_start">1780</metaTag>
+    <metaTag name="composer">Bach, Johann Christian</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-05-02</metaTag>
     <metaTag name="lyricist"></metaTag>
@@ -85,7 +87,7 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workTitle">Keyboard Sonata in C minor, W.A 8</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
