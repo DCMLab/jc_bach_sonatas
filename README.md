@@ -6,63 +6,34 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 
 
 # Overview
-|file_name|measures|labels|standard|annotators|reviewers|
-|---------|-------:|-----:|--------|----------|---------|
-|         |      82|   137|        |          |         |
-|         |      74|   147|        |          |         |
-|         |     111|   260|        |          |         |
-|         |      50|   126|        |          |         |
-|         |      28|    74|        |          |         |
-|         |      24|    64|        |          |         |
-|         |      81|   239|        |          |         |
-|         |      16|   125|        |          |         |
-|         |     117|   244|        |          |         |
-|         |      69|   193|        |          |         |
-|         |      99|   267|        |          |         |
-|         |      55|   130|        |          |         |
-|         |     102|   196|        |          |         |
-|         |      61|   164|        |          |         |
-|         |      77|   282|        |          |         |
-|         |      46|   152|        |          |         |
-|         |      18|     0|        |          |         |
-|         |     121|     0|        |          |         |
-|         |      71|     0|        |          |         |
-|         |     101|     0|        |          |         |
-|         |     115|     0|        |          |         |
-|         |     111|     0|        |          |         |
-|         |      98|     0|        |          |         |
-|         |      99|     0|        |          |         |
-|         |     102|     0|        |          |         |
-|         |     127|     0|        |          |         |
-|         |     118|     0|        |          |         |
-|         |      74|     0|        |          |         |
-|         |     105|     0|        |          |         |
-|         |        |   137|        |          |         |
-|         |        |   147|        |          |         |
-|         |        |   260|        |          |         |
-|         |        |   126|        |          |         |
-|         |        |    74|        |          |         |
-|         |        |    64|        |          |         |
-|         |        |   239|        |          |         |
-|         |        |   125|        |          |         |
-|         |        |   244|        |          |         |
-|         |        |   193|        |          |         |
-|         |        |   267|        |          |         |
-|         |        |   130|        |          |         |
-|         |        |   196|        |          |         |
-|         |        |   164|        |          |         |
-|         |        |   282|        |          |         |
-|         |        |   152|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
-|         |        |     0|        |          |         |
+|             file_name              |measures|labels|standard| annotators |reviewers|
+|------------------------------------|-------:|-----:|--------|------------|---------|
+|wa01op05no1a_Allegretto             |      82|   137|        |Adrian Nagel|         |
+|wa01op05no1b_Tempo_di_Minuetto      |      74|   147|        |Adrian Nagel|         |
+|wa02op05no2a_Allegro_di_molto       |     111|   260|        |Adrian Nagel|         |
+|wa02op05no2b_Andante_di_molto       |      50|   126|        |Adrian Nagel|         |
+|wa02op05no2c_Minuetto               |      28|    74|        |Adrian Nagel|         |
+|wa02op05no2d_Minore                 |      24|    64|        |Adrian Nagel|         |
+|wa03op05no3a_Allegro                |      81|   239|        |Adrian Nagel|         |
+|wa03op05no3b_Allegretto             |      16|   125|        |Adrian Nagel|         |
+|wa04op05no4a_Allegro                |     117|   244|        |Adrian Nagel|         |
+|wa04op05no4b_Rondeaux               |      69|   193|        |Adrian Nagel|         |
+|wa05op05no5a_Allegro_Assai          |      99|   267|        |Adrian Nagel|         |
+|wa05op05no5b_Adagio                 |      55|   130|        |Adrian Nagel|         |
+|wa05op05no5c_Prestissimo            |     102|   196|        |Adrian Nagel|         |
+|wa06op05no6a_Grave                  |      61|   164|        |Adrian Nagel|         |
+|wa06op05no6b_Allegro_Moderato       |      77|   282|        |Adrian Nagel|         |
+|wa06op05no6c_Allegretto             |      46|   152|        |Adrian Nagel|         |
+|wa07op17no1a_Minuetto_Con_Variatione|      18|     0|        |            |         |
+|wa08op17no2a_Allegro                |     121|     0|        |            |         |
+|wa08op17no2b_Andante                |      71|     0|        |            |         |
+|wa08op17no2c_Prestissimo            |     101|     0|        |            |         |
+|wa09op17no3a_Allegro_Assai          |     115|     0|        |            |         |
+|wa09op17no3b_Allegro                |     111|     0|        |            |         |
+|wa10op17no4a_Allegro                |      98|     0|        |            |         |
+|wa10op17no4b_Presto_Assai           |      99|     0|        |            |         |
+|wa11op17no5a_Allegro                |     102|     0|        |            |         |
+|wa11op17no5b_Presto                 |     127|     0|        |            |         |
+|wa12op17no6a_Allegro                |     118|     0|        |            |         |
+|wa12op17no6b_Andante                |      74|     0|        |            |         |
+|wa12op17no6c_Prestissimo            |     105|     0|        |            |         |
