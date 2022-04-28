@@ -7717,7 +7717,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vi</name>
+            <name>i/vi|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8191,7 +8191,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
