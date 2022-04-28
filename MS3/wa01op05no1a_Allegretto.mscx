@@ -5692,7 +5692,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -6404,8 +6404,11 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6418,8 +6421,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6432,8 +6435,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6446,8 +6449,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
