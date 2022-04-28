@@ -5091,7 +5091,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.I6</name>
+            <name>Bb.I</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -5100,10 +5100,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
