@@ -3633,11 +3633,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3650,9 +3647,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>73</pitch>
               <tpc>9</tpc>
               </Note>
