@@ -5085,7 +5085,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.I</name>
+            <name>Bb.I{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -5420,7 +5420,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5429,6 +5429,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5524,7 +5528,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5617,7 +5621,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5686,7 +5690,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
