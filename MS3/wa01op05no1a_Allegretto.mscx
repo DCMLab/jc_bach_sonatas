@@ -2318,9 +2318,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.208765"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -5734,6 +5731,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6224,7 +6225,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
