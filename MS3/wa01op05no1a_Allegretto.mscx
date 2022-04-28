@@ -6763,6 +6763,16 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -6809,7 +6819,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6897,7 +6907,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Rest>
             <offset x="0" y="3"/>
