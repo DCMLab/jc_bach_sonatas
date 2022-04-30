@@ -5720,6 +5720,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Bb.I{</name>
+            <offset x="2.49514" y="2.85136"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -6253,7 +6254,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>I64</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -6269,7 +6270,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>viio64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
