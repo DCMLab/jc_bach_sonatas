@@ -7847,7 +7847,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>I65</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7862,7 +7862,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>viio64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
