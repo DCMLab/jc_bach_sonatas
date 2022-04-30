@@ -7069,7 +7069,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>ii/V</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
