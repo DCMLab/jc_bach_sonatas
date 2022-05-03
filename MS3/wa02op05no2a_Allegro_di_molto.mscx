@@ -10786,7 +10786,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10928,7 +10928,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V64|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10950,7 +10950,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V\\</name>
+            <name>V[V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
