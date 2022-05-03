@@ -9777,13 +9777,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>ii6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -9839,7 +9839,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi</name>
+            <name>vi.V</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -9850,7 +9850,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9928,7 +9928,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%2/vi</name>
+            <name>ii%2(2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9949,6 +9949,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%2</name>
+            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>16th</durationType>
@@ -10006,7 +10010,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/vi</name>
+            <name>#viio7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10044,269 +10048,6 @@
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6/vi</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>26</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi\\</name>
-            </Harmony>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Rest>
-            <offset x="0" y="3"/>
-            <staffMove>-1</staffMove>
-            <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii2</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%7</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -10320,6 +10061,273 @@
             <staffMove>-1</staffMove>
             <durationType>16th</durationType>
             <Note>
+              <pitch>60</pitch>
+              <tpc>26</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/III</name>
+            </Harmony>
+          <Rest>
+            <offset x="0" y="3"/>
+            <staffMove>-1</staffMove>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/III</name>
+            </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii2(2)/III</name>
+            </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii2/III</name>
+            </Harmony>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%7/III</name>
+            </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6/III</name>
+            </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
               <pitch>63</pitch>
               <tpc>23</tpc>
               </Note>
@@ -10354,7 +10362,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I/III</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10366,7 +10374,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>iv/iv</name>
             </Harmony>
           <Rest>
             <offset x="0" y="3"/>
@@ -10379,7 +10387,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/ii</name>
+            <name>V7(4)/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10418,7 +10426,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/ii</name>
+            <name>V7/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10461,7 +10469,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>iv(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10482,6 +10490,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>16th</durationType>
@@ -10539,7 +10551,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/iii</name>
+            <name>V7(4)/v</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10581,7 +10593,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7/v</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10624,7 +10636,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>i(4)/v</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10645,6 +10657,10 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i/v</name>
+            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>16th</durationType>
@@ -10702,7 +10718,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/iii</name>
+            <name>iio6/v</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10731,7 +10747,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V/v</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10743,7 +10759,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>iii.i6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10778,7 +10794,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10812,7 +10828,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -10851,7 +10867,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/iii</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10865,14 +10881,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii\\</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/iii</name>
+            <name>i64</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -10883,7 +10899,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10917,7 +10933,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -10956,7 +10972,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/iii</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10967,7 +10983,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10978,7 +10994,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11000,7 +11016,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iii</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11018,7 +11034,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/iii</name>
+            <name>iv6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11030,6 +11046,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11043,7 +11063,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11081,7 +11101,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iii</name>
+            <name>V6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11123,7 +11143,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11164,7 +11184,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/iii</name>
+            <name>#viio6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11206,7 +11226,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11231,7 +11251,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iii</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11242,7 +11262,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio/iii</name>
+            <name>iio</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11256,7 +11276,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11265,6 +11285,10 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11278,7 +11302,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11296,7 +11320,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I.I</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
