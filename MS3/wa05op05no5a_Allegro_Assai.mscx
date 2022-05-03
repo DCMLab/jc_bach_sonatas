@@ -12495,30 +12495,12 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            </Harmony>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -12536,10 +12518,20 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I]</name>
-            </Harmony>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
