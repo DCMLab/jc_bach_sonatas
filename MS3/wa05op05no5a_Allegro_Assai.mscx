@@ -7773,7 +7773,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
-              <offset x="0.658281" y="-9.45879"/>
+              <offset x="-0.886487" y="4.18666"/>
               </Articulation>
             <Note>
               <pitch>80</pitch>
@@ -10102,7 +10102,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>E.I</name>
+            <name>E.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10366,7 +10366,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I}{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -10794,7 +10794,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11325,7 +11325,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12179,7 +12179,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12217,7 +12217,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I</name>
+            <name>V.I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12492,7 +12492,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I[I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12508,6 +12508,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(^4^2)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -12522,6 +12526,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I]</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
