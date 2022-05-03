@@ -1637,8 +1637,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7630,7 +7630,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I[I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7646,6 +7646,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -7655,14 +7659,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V7</name>
+            <name>V7/IV</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7707,7 +7711,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7745,7 +7749,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7785,63 +7789,59 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <staffMove>-1</staffMove>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
             </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -7856,7 +7856,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7865,6 +7865,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -7874,14 +7878,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/IV</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7923,7 +7927,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7958,7 +7962,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7995,59 +7999,55 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
             </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8061,7 +8061,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>I]|PC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8072,7 +8072,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I.I{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
