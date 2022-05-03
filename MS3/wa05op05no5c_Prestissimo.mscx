@@ -9322,7 +9322,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -9354,7 +9354,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>iio</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
