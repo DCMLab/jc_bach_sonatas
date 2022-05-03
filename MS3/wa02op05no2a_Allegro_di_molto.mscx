@@ -12654,7 +12654,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi\\</name>
+            <name>vi|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
