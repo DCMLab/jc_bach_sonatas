@@ -17057,7 +17057,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.</name>
+            <name>I.iio/v</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -17094,10 +17094,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio/v</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
