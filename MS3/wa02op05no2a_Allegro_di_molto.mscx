@@ -15255,7 +15255,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V64|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15273,7 +15273,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V\\</name>
+            <name>V[V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
