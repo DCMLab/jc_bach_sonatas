@@ -2634,8 +2634,11 @@
             <durationType>eighth</durationType>
             <appoggiatura/>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -7704,7 +7707,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V65/ii</name>
+            <name>I.#viio/ii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -7743,10 +7746,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio/ii</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -7807,17 +7806,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/ii</name>
-            <offset x="-2" y="-6"/>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
