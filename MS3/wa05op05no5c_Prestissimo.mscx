@@ -6976,7 +6976,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7019,7 +7019,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7057,7 +7057,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>ii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
