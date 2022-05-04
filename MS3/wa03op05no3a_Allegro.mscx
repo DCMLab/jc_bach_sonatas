@@ -11961,7 +11961,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>viio</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12063,7 +12063,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>viio</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
