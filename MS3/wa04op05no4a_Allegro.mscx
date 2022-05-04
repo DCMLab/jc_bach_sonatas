@@ -11755,8 +11755,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12229,7 +12229,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V\\</name>
+            <name>V[V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12376,7 +12376,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12485,7 +12485,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V</name>
+            <name>viio/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12674,7 +12674,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12783,7 +12783,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V</name>
+            <name>viio/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
