@@ -8047,12 +8047,8 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            </Harmony>
           <Rest>
-            <offset x="0" y="6"/>
+            <offset x="0.324381" y="-6.70457"/>
             <staffMove>-1</staffMove>
             <durationType>quarter</durationType>
             </Rest>
@@ -8075,7 +8071,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -8089,10 +8085,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Rest>
             <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
@@ -8141,12 +8133,8 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            </Harmony>
           <Rest>
-            <offset x="0" y="12.5009"/>
+            <offset x="0" y="-6.4991"/>
             <staffMove>-1</staffMove>
             <durationType>quarter</durationType>
             </Rest>
@@ -8178,7 +8166,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -8192,12 +8180,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
