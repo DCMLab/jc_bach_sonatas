@@ -15638,6 +15638,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(4)</name>
+            </Harmony>
           <Rest>
             <offset x="-0.156848" y="0"/>
             <durationType>quarter</durationType>
@@ -15725,6 +15729,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(4)</name>
+            </Harmony>
           <Rest>
             <offset x="-0.156848" y="0"/>
             <durationType>quarter</durationType>
