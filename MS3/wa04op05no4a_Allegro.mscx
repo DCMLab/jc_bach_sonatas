@@ -11040,7 +11040,6 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
@@ -11063,7 +11062,6 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -11105,11 +11103,9 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -11127,7 +11123,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>vi</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11144,10 +11140,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -11165,7 +11157,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11182,10 +11174,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
