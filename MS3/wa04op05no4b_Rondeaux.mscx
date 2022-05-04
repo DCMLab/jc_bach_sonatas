@@ -8956,10 +8956,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
