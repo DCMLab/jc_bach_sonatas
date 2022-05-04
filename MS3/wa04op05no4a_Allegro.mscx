@@ -13696,6 +13696,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -13761,7 +13765,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V2</name>
+            <name>V2/IV</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -13828,7 +13832,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6/IV</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -13842,10 +13846,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -13888,7 +13888,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V43/IV</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -13903,10 +13903,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -13919,10 +13915,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -13935,10 +13927,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -13957,7 +13945,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14072,7 +14060,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/IV</name>
+            <name>V2/IV/IV</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -14145,7 +14133,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I6/IV/IV</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -14159,10 +14147,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -14205,7 +14189,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/IV</name>
+            <name>V43/IV/IV</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -14219,10 +14203,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/IV</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -14235,10 +14215,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -14251,10 +14227,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/IV</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -14273,7 +14245,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>vi.iv6</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -14287,10 +14259,6 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)/ii</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
