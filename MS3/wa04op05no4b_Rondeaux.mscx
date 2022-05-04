@@ -6625,10 +6625,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
