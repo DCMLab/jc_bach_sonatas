@@ -739,11 +739,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -763,8 +760,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -781,8 +778,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6419,8 +6416,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6774,7 +6771,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V6(2)</name>
+            <name>III.V6(9)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -6796,11 +6793,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -6827,11 +6821,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6851,8 +6842,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6872,8 +6863,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
