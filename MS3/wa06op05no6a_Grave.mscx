@@ -7321,7 +7321,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(2)</name>
+            <name>ii(^7)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7339,6 +7339,16 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
