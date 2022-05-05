@@ -358,8 +358,8 @@
             <durationType>eighth</durationType>
             <appoggiatura/>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -374,8 +374,8 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6191,7 +6191,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>#viio65(2)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -6255,10 +6255,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio6</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
