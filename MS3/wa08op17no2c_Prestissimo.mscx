@@ -13130,7 +13130,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.iv6</name>
+            <name>v/ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -13146,7 +13146,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/iii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -13172,7 +13172,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i/iii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -13196,6 +13196,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v.i</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
