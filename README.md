@@ -34,6 +34,6 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa10op17no4b_Presto_Assai           |      99|     0|        |            |         |
 |wa11op17no5a_Allegro                |     102|     0|        |            |         |
 |wa11op17no5b_Presto                 |     127|     0|        |            |         |
-|wa12op17no6a_Allegro                |     118|     0|        |            |         |
+|wa12op17no6a_Allegro                |     118|   194|2.3.0   |Amelia Brey |DK       |
 |wa12op17no6b_Andante                |      74|     0|        |            |         |
 |wa12op17no6c_Prestissimo            |     105|     0|        |            |         |
