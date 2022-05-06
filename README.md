@@ -24,7 +24,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa06op05no6a_Grave                  |      61|   164|2.1.1   |Adrian Nagel|         |
 |wa06op05no6b_Allegro_Moderato       |      77|   282|2.1.1   |Adrian Nagel|         |
 |wa06op05no6c_Allegretto             |      46|   152|2.1.1   |Adrian Nagel|         |
-|wa07op17no1a_Minuetto_Con_Variatione|      18|     0|        |            |         |
+|wa07op17no1a_Minuetto_Con_Variatione|      18|   178|2.3.0   |Amelia Brey |DK       |
 |wa08op17no2a_Allegro                |     121|     0|        |            |         |
 |wa08op17no2b_Andante                |      71|     0|        |            |         |
 |wa08op17no2c_Prestissimo            |     101|     0|        |            |         |
