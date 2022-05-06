@@ -13873,7 +13873,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV{</name>
+            <name>I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13934,6 +13934,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/IV</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -19510,7 +19514,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV{</name>
+            <name>I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19574,6 +19578,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/IV</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
