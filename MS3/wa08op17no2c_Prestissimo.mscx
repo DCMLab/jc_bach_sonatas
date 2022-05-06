@@ -6134,8 +6134,8 @@
               <tpc>16</tpc>
               </Note>
             <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -14835,7 +14835,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7|HC}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
