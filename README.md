@@ -27,7 +27,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa07op17no1a_Minuetto_Con_Variatione|      18|   178|2.3.0   |Amelia Brey |DK       |
 |wa08op17no2a_Allegro                |     121|     0|        |            |         |
 |wa08op17no2b_Andante                |      71|     0|        |            |         |
-|wa08op17no2c_Prestissimo            |     101|     0|        |            |         |
+|wa08op17no2c_Prestissimo            |     101|   216|2.3.0   |Amelia Brey |DK       |
 |wa09op17no3a_Allegro_Assai          |     115|     0|        |            |         |
 |wa09op17no3b_Allegro                |     111|     0|        |            |         |
 |wa10op17no4a_Allegro                |      98|     0|        |            |         |
