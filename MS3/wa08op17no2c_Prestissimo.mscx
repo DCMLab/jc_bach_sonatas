@@ -14252,7 +14252,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/iv</name>
+            <name>V2/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14309,7 +14309,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14428,7 +14428,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14548,7 +14548,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
