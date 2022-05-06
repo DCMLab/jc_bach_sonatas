@@ -12280,7 +12280,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12444,7 +12444,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65</name>
+            <name>It6</name>
             <offset x="14.8633" y="3.50689"/>
             </Harmony>
           <Chord>
@@ -12473,7 +12473,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65</name>
+            <name>It6</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12501,7 +12501,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65</name>
+            <name>It6</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
