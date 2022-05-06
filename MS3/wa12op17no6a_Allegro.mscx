@@ -6037,7 +6037,7 @@
               <next>
                 <location>
                   <measures>1</measures>
-                  <fractions>-7/16</fractions>
+                  <fractions>-1/2</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -6052,6 +6052,14 @@
         <voice>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -6059,14 +6067,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>7/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>75</pitch>
               <tpc>11</tpc>
@@ -16436,7 +16436,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/ii</name>
+            <name>V65(9)/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
