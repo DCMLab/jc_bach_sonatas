@@ -9273,7 +9273,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>I.iv/ii</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -9318,7 +9318,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V7/ii</name>
+            <name>V7/ii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
