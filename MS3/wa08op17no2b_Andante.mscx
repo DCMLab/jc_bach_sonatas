@@ -8587,6 +8587,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(^74)}</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -8610,7 +8614,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]|PAC}</name>
+            <name>I]|PAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
