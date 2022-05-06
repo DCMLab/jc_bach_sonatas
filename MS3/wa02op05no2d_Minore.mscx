@@ -2192,6 +2192,10 @@
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2351,7 +2355,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(94)</name>
+            <name>III(94)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2369,7 +2373,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM2</name>
+            <name>III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2405,7 +2409,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>III6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2520,7 +2524,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
