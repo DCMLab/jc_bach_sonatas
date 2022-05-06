@@ -15772,7 +15772,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>ii6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15916,7 +15916,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>ii6</name>
+            <offset x="-0.486572" y="3.54876"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
