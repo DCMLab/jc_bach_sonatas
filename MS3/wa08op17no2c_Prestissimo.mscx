@@ -15095,7 +15095,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15307,7 +15307,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
