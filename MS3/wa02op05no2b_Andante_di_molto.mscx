@@ -5172,7 +5172,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{I.I/V</name>
+            <name>I.I/V{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
