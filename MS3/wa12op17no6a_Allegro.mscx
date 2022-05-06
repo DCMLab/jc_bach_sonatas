@@ -17083,7 +17083,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vi</name>
+            <name>I.i/iii-iii</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -17138,7 +17138,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V65/ii</name>
+            <name>V65/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
