@@ -11455,7 +11455,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|EC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11623,7 +11623,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|EC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
