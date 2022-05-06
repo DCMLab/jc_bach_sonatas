@@ -10949,6 +10949,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Bb.I[I{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -10956,10 +10960,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Bb.I[I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
