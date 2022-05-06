@@ -6763,8 +6763,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6778,18 +6778,18 @@
               </Spanner>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <pitch>81</pitch>
@@ -16946,7 +16946,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/ii</name>
+            <name>i/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
