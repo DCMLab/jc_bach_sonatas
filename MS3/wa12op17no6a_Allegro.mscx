@@ -15574,7 +15574,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>I[I{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -15583,10 +15583,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I[I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -15942,7 +15938,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]</name>
+            <name>I]}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15984,7 +15980,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V6</name>
+            <name>V[V6{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
