@@ -7541,7 +7541,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7616,7 +7616,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>IV64(^20)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -7642,6 +7642,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV64</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
