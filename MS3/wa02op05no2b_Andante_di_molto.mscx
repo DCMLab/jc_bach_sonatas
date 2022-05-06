@@ -4893,7 +4893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6\\</name>
+            <name>V6}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4923,6 +4923,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5138,7 +5142,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(74)</name>
+            <name>I(74)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5147,10 +5151,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5160,7 +5160,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
