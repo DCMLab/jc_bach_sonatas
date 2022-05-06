@@ -15447,7 +15447,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15905,7 +15905,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16363,7 +16363,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16693,7 +16693,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(74)</name>
+            <name>i(#74)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
