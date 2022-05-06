@@ -5676,11 +5676,8 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -5693,10 +5690,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
@@ -5708,6 +5701,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
@@ -13257,7 +13253,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(9)</name>
+            <name>#viio65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
