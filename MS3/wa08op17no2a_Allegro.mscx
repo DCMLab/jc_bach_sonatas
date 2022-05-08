@@ -8318,7 +8318,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>#viio7</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
