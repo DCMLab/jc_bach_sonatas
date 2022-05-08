@@ -5331,8 +5331,11 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -11635,11 +11638,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>ii</name>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V</name>
             <offset x="11.1503" y="3.31763"/>
             </Harmony>
           <Rest>
