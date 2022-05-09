@@ -1670,8 +1670,11 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1711,8 +1714,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -1728,8 +1731,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1756,8 +1759,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2350,8 +2353,11 @@
               <tpc>13</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <pitch>72</pitch>
@@ -11004,7 +11010,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/v</name>
+            <name>V6/V</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11044,7 +11050,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/v-V65/v</name>
+            <name>viio/V-V65/V</name>
             <offset x="-5.31303" y="3.09131"/>
             </Harmony>
           </voice>
@@ -11053,7 +11059,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v}{</name>
+            <name>V}{</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11120,7 +11126,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v2</name>
+            <name>V2</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12021,7 +12027,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/v</name>
+            <name>V/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12087,7 +12093,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
