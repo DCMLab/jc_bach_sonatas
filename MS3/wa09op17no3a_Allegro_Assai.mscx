@@ -11004,7 +11004,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/V</name>
+            <name>V6/v</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11044,7 +11044,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V-V65/V</name>
+            <name>viio/v-V65/v</name>
             <offset x="-5.31303" y="3.09131"/>
             </Harmony>
           </voice>
@@ -12021,7 +12021,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12087,7 +12087,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
