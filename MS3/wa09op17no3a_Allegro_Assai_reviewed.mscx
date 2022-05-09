@@ -1670,11 +1670,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1714,8 +1711,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -1731,8 +1728,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1759,8 +1756,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2353,11 +2350,8 @@
               <tpc>13</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             <Note>
               <pitch>72</pitch>
@@ -11011,6 +11005,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11051,6 +11051,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/V-V65/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio/v-V65/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-5.31303" y="3.09131"/>
             </Harmony>
           </voice>
@@ -11060,6 +11066,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11127,6 +11139,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v2</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12028,6 +12046,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12094,6 +12118,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
