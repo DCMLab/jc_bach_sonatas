@@ -11053,7 +11053,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}{</name>
+            <name>v}{</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11120,7 +11120,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>v2</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
