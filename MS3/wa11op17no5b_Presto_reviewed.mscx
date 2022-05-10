@@ -10347,7 +10347,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi-ii6/V</name>
+            <name>V.ii6</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -10398,12 +10398,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V.V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
