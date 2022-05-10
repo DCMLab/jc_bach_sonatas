@@ -10336,7 +10336,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi-ii6/V</name>
+            <name>V.ii6</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10385,7 +10385,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.V</name>
+            <name>V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
