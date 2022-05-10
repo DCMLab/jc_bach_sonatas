@@ -13123,7 +13123,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.V2/vii{</name>
+            <name>V2/v{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13169,7 +13169,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6/vii</name>
+            <name>i6/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13221,7 +13221,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/vii</name>
+            <name>V43/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13266,7 +13266,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vii</name>
+            <name>i/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13285,7 +13285,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13336,7 +13336,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13386,7 +13386,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13435,7 +13435,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13454,7 +13454,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>vi.i</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
