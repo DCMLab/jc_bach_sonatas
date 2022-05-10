@@ -10320,7 +10320,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V.V65/IV{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.2" y="3.5"/>
             </Harmony>
           <Chord>
@@ -10336,7 +10342,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V.ii6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13233,7 +13245,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>viio/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
