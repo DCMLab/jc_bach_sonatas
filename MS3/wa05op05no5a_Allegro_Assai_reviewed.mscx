@@ -164,7 +164,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -12728,6 +12728,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I[I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12769,7 +12775,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]</name>
+            <name>I</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14962,7 +14968,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
@@ -16349,7 +16355,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/IV-VI/vi}{</name>
+            <name>IV/IV}{-VI/vi}{</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-7"/>
             </Harmony>
