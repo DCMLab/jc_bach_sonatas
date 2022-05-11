@@ -164,7 +164,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -14761,7 +14761,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio/V</name>
+            <name>viio/V</name>
             <offset x="-0.583962" y="2.91865"/>
             </Harmony>
           <Tuplet>
