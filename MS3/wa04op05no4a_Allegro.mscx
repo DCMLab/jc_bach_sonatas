@@ -17301,7 +17301,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/ii{</name>
+            <name>V65/ii{</name>
             </Harmony>
           <Tuplet>
             <visible>0</visible>
@@ -17448,7 +17448,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V65</name>
             </Harmony>
           <Tuplet>
             <visible>0</visible>
