@@ -10,7 +10,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |------------------------------------|-------:|-----:|--------|-------------------------------------------|---------|
 |wa01op05no1a_Allegretto             |      82|   137|2.1.1   |Adrian Nagel                               |         |
 |wa01op05no1b_Tempo_di_Minuetto      |      74|   147|2.1.1   |Adrian Nagel                               |         |
-|wa02op05no2a_Allegro_di_molto       |     111|   260|2.1.1   |Adrian Nagel                               |         |
+|wa02op05no2a_Allegro_di_molto       |     111|   262|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)  |AB, AN   |
 |wa02op05no2b_Andante_di_molto       |      50|   126|2.1.1   |Adrian Nagel                               |         |
 |wa02op05no2c_Minuetto               |      28|    74|2.1.1   |Adrian Nagel                               |         |
 |wa02op05no2d_Minore                 |      24|    64|2.1.1   |Adrian Nagel                               |         |
