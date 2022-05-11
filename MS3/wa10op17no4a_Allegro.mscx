@@ -12750,7 +12750,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV}</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12798,7 +12798,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|EC{</name>
+            <name>i|EC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
