@@ -14621,7 +14621,7 @@
             </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
