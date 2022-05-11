@@ -13182,7 +13182,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V</name>
+            <name>viio6/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13251,7 +13251,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V</name>
+            <name>viio6/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
