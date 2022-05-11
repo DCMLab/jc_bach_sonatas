@@ -31,7 +31,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa09op17no3a_Allegro_Assai          |     114|   268|2.3.0   |Davor Krkljus                              |AB       |
 |wa09op17no3b_Allegro                |     111|     0|        |                                           |         |
 |wa10op17no4a_Allegro                |      98|     0|        |                                           |         |
-|wa10op17no4b_Presto_Assai           |      99|     0|        |                                           |         |
+|wa10op17no4b_Presto_Assai           |      99|   119|2.3.0   |Davor Krkljus                              |AN       |
 |wa11op17no5a_Allegro                |     102|     0|        |                                           |         |
 |wa11op17no5b_Presto                 |     127|   229|2.3.0   |Davor Krkljus                              |ST       |
 |wa12op17no6a_Allegro                |     118|   194|2.3.0   |Amelia Brey                                |DK       |
