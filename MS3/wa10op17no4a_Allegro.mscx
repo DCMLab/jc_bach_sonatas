@@ -11710,7 +11710,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>I[I{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11719,10 +11719,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I[I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
