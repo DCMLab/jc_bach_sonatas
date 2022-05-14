@@ -10021,7 +10021,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6|EC}</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10034,7 +10034,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
