@@ -11233,7 +11233,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>III.V7</name>
             </Harmony>
           </voice>
         </Measure>
@@ -11241,7 +11241,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III\\</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11261,7 +11261,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
