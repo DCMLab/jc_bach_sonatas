@@ -10469,7 +10469,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(2)/VII</name>
+            <name>iv7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10481,7 +10481,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VII</name>
+            <name>III.V/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
