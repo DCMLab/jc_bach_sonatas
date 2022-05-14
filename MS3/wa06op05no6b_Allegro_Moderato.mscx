@@ -10096,7 +10096,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC}{</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
