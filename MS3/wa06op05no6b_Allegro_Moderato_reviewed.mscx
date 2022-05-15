@@ -11882,6 +11882,17 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v.iv</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Rest>
             <offset x="0" y="4"/>
             <durationType>quarter</durationType>
@@ -11896,7 +11907,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/iio</name>
+            <name>#viio6</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-2" y="-6"/>
             </Harmony>
@@ -11955,7 +11966,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i</name>
+            <name>i</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
