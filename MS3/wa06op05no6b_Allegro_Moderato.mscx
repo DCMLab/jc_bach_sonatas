@@ -12414,7 +12414,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/iv</name>
+            <name>iv64</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12433,7 +12433,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iv</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12447,14 +12447,14 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(9)</name>
+            <name>i(9)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12472,7 +12472,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12501,7 +12501,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iv</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12526,7 +12526,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12561,7 +12561,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6|EC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
