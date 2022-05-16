@@ -2107,7 +2107,6 @@
         </Measure>
       <Measure>
         <startRepeat/>
-        <noOffset>-16</noOffset>
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
@@ -2990,7 +2989,6 @@
         </Measure>
       <Measure>
         <startRepeat/>
-        <noOffset>-16</noOffset>
         <voice>
           <StaffText>
             <offset x="0" y="-5.78606"/>
@@ -5075,7 +5073,6 @@
         </Measure>
       <Measure>
         <startRepeat/>
-        <noOffset>-16</noOffset>
         <voice>
           <StaffText>
             <offset x="0" y="-5.78606"/>
@@ -9454,7 +9451,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
