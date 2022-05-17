@@ -10330,7 +10330,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%(2)</name>
+            <name>ii%2-#viio(2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
