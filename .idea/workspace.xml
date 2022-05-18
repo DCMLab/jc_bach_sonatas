@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9fbfaa7-27ee-4a43-9c0f-93848b3447d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MS3/wa02op05no2a_Allegro_di_molto_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa02op05no2b_Andante_di_molto_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa02op05no2c_Minuetto_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa03op05no3a_Allegro_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa03op05no3b_Allegretto_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa04op05no4b_Rondeaux_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa05op05no5a_Allegro_Assai_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa05op05no5b_Adagio_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa05op05no5c_Prestissimo_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa07op17no1a_Minuetto_Con_Variatione_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa08op17no2b_Andante_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa08op17no2c_Prestissimo_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa09op17no3a_Allegro_Assai_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa11op17no5a_Allegro_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa11op17no5b_Presto_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS3/wa12op17no6a_Allegro_reviewed.mscx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa07op17no1a_Minuetto_Con_Variatione.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa08op17no2b_Andante.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa08op17no2c_Prestissimo.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa09op17no3a_Allegro_Assai.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa10op17no4b_Presto_Assai.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa11op17no5a_Allegro.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa11op17no5b_Presto.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harmonies/wa12op17no6a_Allegro.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa02op05no2a_Allegro_di_molto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa02op05no2b_Andante_di_molto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa02op05no2c_Minuetto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa03op05no3a_Allegro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa03op05no3b_Allegretto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa04op05no4b_Rondeaux.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa05op05no5a_Allegro_Assai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa05op05no5b_Adagio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa05op05no5c_Prestissimo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa07op17no1a_Minuetto_Con_Variatione.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa08op17no2b_Andante.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa08op17no2c_Prestissimo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa09op17no3a_Allegro_Assai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa10op17no4b_Presto_Assai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa11op17no5a_Allegro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa11op17no5b_Presto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tonicizations/wa12op17no6a_Allegro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa01op05no1a_Allegretto.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa01op05no1a_Allegretto.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa01op05no1a_Allegretto_reviewed.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa01op05no1a_Allegretto_reviewed.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa02op05no2a_Allegro_di_molto.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa02op05no2a_Allegro_di_molto.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa02op05no2b_Andante_di_molto.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa02op05no2b_Andante_di_molto.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa02op05no2c_Minuetto.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa02op05no2c_Minuetto.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa03op05no3a_Allegro.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa03op05no3a_Allegro.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa03op05no3b_Allegretto.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa03op05no3b_Allegretto.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa04op05no4b_Rondeaux.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa04op05no4b_Rondeaux.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa05op05no5a_Allegro_Assai.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa05op05no5a_Allegro_Assai.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa05op05no5b_Adagio.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa05op05no5b_Adagio.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa05op05no5c_Prestissimo.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa05op05no5c_Prestissimo.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa07op17no1a_Minuetto_Con_Variatione.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa07op17no1a_Minuetto_Con_Variatione.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa08op17no2b_Andante.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa08op17no2b_Andante.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa08op17no2c_Prestissimo.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa08op17no2c_Prestissimo.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa09op17no3a_Allegro_Assai.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa09op17no3a_Allegro_Assai.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa10op17no4b_Presto_Assai.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa10op17no4b_Presto_Assai.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa11op17no5a_Allegro.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa11op17no5a_Allegro.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa11op17no5b_Presto.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa11op17no5b_Presto.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS3/wa12op17no6a_Allegro.mscx" beforeDir="false" afterPath="$PROJECT_DIR$/MS3/wa12op17no6a_Allegro.mscx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa01op05no1a_Allegretto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa01op05no1a_Allegretto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa02op05no2a_Allegro_di_molto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa02op05no2a_Allegro_di_molto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa02op05no2b_Andante_di_molto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa02op05no2b_Andante_di_molto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa02op05no2c_Minuetto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa02op05no2c_Minuetto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa03op05no3a_Allegro.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa03op05no3a_Allegro.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa03op05no3b_Allegretto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa03op05no3b_Allegretto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa04op05no4b_Rondeaux.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa04op05no4b_Rondeaux.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa05op05no5b_Adagio.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa05op05no5b_Adagio.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonies/wa05op05no5c_Prestissimo.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/harmonies/wa05op05no5c_Prestissimo.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measures/wa03op05no3b_Allegretto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/measures/wa03op05no3b_Allegretto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measures/wa09op17no3a_Allegro_Assai.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/measures/wa09op17no3a_Allegro_Assai.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/metadata.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa01op05no1a_Allegretto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa01op05no1a_Allegretto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa02op05no2b_Andante_di_molto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa02op05no2b_Andante_di_molto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa03op05no3a_Allegro.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa03op05no3a_Allegro.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa03op05no3b_Allegretto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa03op05no3b_Allegretto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa05op05no5b_Adagio.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa05op05no5b_Adagio.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa05op05no5c_Prestissimo.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa05op05no5c_Prestissimo.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa08op17no2b_Andante.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa08op17no2b_Andante.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa08op17no2c_Prestissimo.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa08op17no2c_Prestissimo.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa09op17no3a_Allegro_Assai.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa09op17no3a_Allegro_Assai.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa10op17no4b_Presto_Assai.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa10op17no4b_Presto_Assai.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa11op17no5a_Allegro.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa11op17no5a_Allegro.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa11op17no5b_Presto.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa11op17no5b_Presto.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/wa12op17no6a_Allegro.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/notes/wa12op17no6a_Allegro.tsv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Kbu0Cadzuf0wbDZUINuy3Kj64" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/hentsche/jc_bach_sonatas",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9fbfaa7-27ee-4a43-9c0f-93848b3447d1" name="Changes" comment="" />
+      <created>1652864942369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652864942369</updated>
+      <workItem from="1652864943540" duration="328000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' into wa03op05no3b_Allegretto&#10;&#10;# Conflicts:&#10;#&#9;MS3/wa03op05no3b_Allegretto_reviewed.mscx&#10;#&#9;tonicizations/wa03op05no3b_Allegretto.html">
+      <created>1652865023106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652865023106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' into wa03op05no3b_Allegretto&#10;&#10;# Conflicts:&#10;#&#9;MS3/wa03op05no3b_Allegretto_reviewed.mscx&#10;#&#9;tonicizations/wa03op05no3b_Allegretto.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' into wa03op05no3b_Allegretto&#10;&#10;# Conflicts:&#10;#&#9;MS3/wa03op05no3b_Allegretto_reviewed.mscx&#10;#&#9;tonicizations/wa03op05no3b_Allegretto.html" />
+  </component>
+</project>
