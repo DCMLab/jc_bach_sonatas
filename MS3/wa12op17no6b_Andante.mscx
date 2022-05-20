@@ -4043,11 +4043,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             <Note>
               <pitch>77</pitch>
@@ -9885,7 +9882,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI/V{</name>
+            <name>I.iv6/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9910,7 +9907,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9942,7 +9939,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>i(#7^2)/ii</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9954,14 +9951,15 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -9973,7 +9971,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.bVI</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
