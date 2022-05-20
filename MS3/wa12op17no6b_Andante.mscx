@@ -7500,6 +7500,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii(+7)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
