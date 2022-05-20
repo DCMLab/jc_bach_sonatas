@@ -11644,7 +11644,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV{</name>
+            <name>V7/IV</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11787,7 +11787,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(^7^4^2)}</name>
+            <name>I(^7^4^2)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
