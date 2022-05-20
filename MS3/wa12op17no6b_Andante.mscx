@@ -7341,7 +7341,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(+7)</name>
+            <name>ii6(+7)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7502,7 +7502,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(+7)</name>
+            <name>ii6(+7)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9450,7 +9450,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>ii</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9471,6 +9471,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii(+4)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9488,6 +9492,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9621,6 +9629,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii6(+7)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9671,7 +9683,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9695,9 +9707,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="-0.996377"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9785,6 +9794,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii6(+7)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
