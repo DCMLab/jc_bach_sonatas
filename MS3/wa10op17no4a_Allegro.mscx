@@ -12382,7 +12382,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6-V65</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12512,7 +12512,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6-V65</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
