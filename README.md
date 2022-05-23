@@ -9,7 +9,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |             file_name              |measures|labels|standard|                     annotators                     |reviewers|
 |------------------------------------|-------:|-----:|--------|----------------------------------------------------|---------|
 |wa01op05no1a_Allegretto             |      82|   120|2.3.0   |Adrian Nagel (2.1.1.), Ehsan Mohagheghi Fard (2.3.0)|AN       |
-|wa01op05no1b_Tempo_di_Minuetto      |      74|   147|2.1.1   |Adrian Nagel                                        |         |
+|wa01op05no1b_Tempo_di_Minuetto      |      74|   149|2.3.0   |Adrian Nagel (2.1.1), Ehsan Mohagheghi Fard (2.3.0) |AN       |
 |wa02op05no2a_Allegro_di_molto       |     111|   262|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)           |AB, AN   |
 |wa02op05no2b_Andante_di_molto       |      50|   118|2.1.1   |Adrian Nagel (2.1.1), Ehsan Mohagheghi Fard (2.3.0) |AN       |
 |wa02op05no2c_Minuetto               |      28|    59|2.3.0   |Adrian Nagel (2.1.1.), Ehsan Mohagheghi Fard (2.3.0)|AN       |
