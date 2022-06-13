@@ -16,7 +16,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa02op05no2d_Minore                 |      24|    39|2.3.0   |Adrian Nagel (2.1.1), Ehsan Mohagheghi Fard (2.3.0) |AN       |
 |wa03op05no3a_Allegro                |      81|   191|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa03op05no3b_Allegretto             |      80|   127|2.3.0   |Adrian Nagel (2.1.1), Ehsan Mohagheghi Fard (2.3.0) |         |
-|wa04op05no4a_Allegro                |     117|   244|2.1.1   |Adrian Nagel                                        |         |
+|wa04op05no4a_Allegro                |     117|   197|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa04op05no4b_Rondeaux               |      69|   114|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa05op05no5a_Allegro_Assai          |      99|   267|2.1.1   |Adrian Nagel                                        |         |
 |wa05op05no5b_Adagio                 |      55|   130|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
