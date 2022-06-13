@@ -21,7 +21,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa05op05no5a_Allegro_Assai          |      99|   267|2.1.1   |Adrian Nagel                                        |         |
 |wa05op05no5b_Adagio                 |      55|   130|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa05op05no5c_Prestissimo            |     102|   205|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
-|wa06op05no6a_Grave                  |      61|   164|2.1.1   |Adrian Nagel                                        |         |
+|wa06op05no6a_Grave                  |      62|   148|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa06op05no6b_Allegro_Moderato       |      77|   281|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)          |AN       |
 |wa06op05no6c_Allegretto             |      46|   155|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)          |         |
 |wa07op17no1a_Minuetto_Con_Variatione|      18|   178|2.3.0   |Amelia Brey                                         |DK       |
