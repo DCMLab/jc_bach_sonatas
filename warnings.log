@@ -1,0 +1,224 @@
+Warnings encountered during the last execution of ms3 review (v1.2.2)
+=====================================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 36) ms3.Parse.jc_bach_sonatas.wa01op05no1a_Allegretto -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 36 (timesig 1/2, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/4):
+	{37: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 53) ms3.Parse.jc_bach_sonatas.wa08op17no2a_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 53 (timesig 1/2, act_dur 1/8) is completed by 1 incorrect duration (expected: 3/8):
+	{54: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 49) ms3.Parse.jc_bach_sonatas.wa08op17no2c_Prestissimo -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 49 (timesig 3/2, act_dur 1/8) is completed by 1 incorrect duration (expected: 11/8):
+	{50: Fraction(3, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 54) ms3.Parse.jc_bach_sonatas.wa12op17no6a_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 54 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{55: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 45 (timesig 3/2, act_dur 1/8) is completed by 1 incorrect duration (expected: 11/8):
+	{46: Fraction(3, 2)}
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 53: ') ms3.Parse.jc_bach_sonatas.wa03op05no3a_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4134) features2tpcs():
+	MC 53: #vii in major context corrected to vii.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa05op05no5b_Adagio -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5117) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             8a         }
+	            9a         {            12a         }
+	           13a         {            22a         }
+	           22a         {            26a        }{
+	           26a        }{            28a         }
+	           29a         {            32a         }
+	           33a         {            36a         }
+	           37a         {            42a         }
+	           42a         {            46a         }
+	           46a         {            50a        }{
+	           50a        }{            52a         }
+	           53a        }{            53a        }{
+	            1b         {            55a         }
+	            9b         {             8b         }
+	           13b         {            12b         }
+	           22b         {            22b         }
+	           26b        }{            26b        }{
+	           29b         {            28b         }
+	           33b         {            32b         }
+	           37b         {            36b         }
+	           42b         {            42b         }
+	           46b         {            46b         }
+	           50b        }{            50b        }{
+	           53b        }{            52b         }
+	           NaN       NaN            53b        }{
+	           NaN       NaN            55b         }
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa06op05no6a_Grave -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5117) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             7a        }{
+	            7a        }{            11a         }
+	           11a         {            17a        }{
+	           17a        }{            21a        }{
+	           21a        }{            29a         }
+	           30a         {            33a         }
+	           33a         {            39a         }
+	           39a         {            43a        }{
+	           43a        }{            47a         }
+	           48a         {            52a        }{
+	           52a        }{            59a        }{
+	           59a        }{            61a         }
+	           NaN       NaN            62a         }
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa06op05no6c_Allegretto -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5117) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {             2a         }
+	            2a         {             4a         }
+	            4a         {             6a         }
+	            6a         {             8a         }
+	            8a         {             2b         }
+	            2b         {             4b         }
+	            4b         {             6b         }
+	            6b         {             8b         }
+	            8b         {            12a         }
+	           12a         {            14a         }
+	           14a         {            16a         }
+	           16a         {            18a         }
+	           18a         {            22a         }
+	           22a         {            26a         }
+	           26a         {            28a        }{
+	           28a        }{            30a         }
+	           30a         {            34a         }
+	           36a         {            36a         }
+	           38a         {            38a         }
+	           40a         {            40a         }
+	           44a         {            44a         }
+	           12b         {            12b         }
+	           14b         {            14b         }
+	           16b         {            16b         }
+	           18b         {            18b         }
+	           22b         {            22b         }
+	           26b         {            26b         }
+	           28b        }{            28b        }{
+	           30b         {            30b         }
+	           36b         {            34b         }
+	           38b         {            36b         }
+	           40b         {            38b         }
+	           44b         {            40b         }
+	           NaN       NaN            44b         }
+	           NaN       NaN            46a         }
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa07op17no1a_Minuetto_Con_Variatione -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5117) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             8a         }
+	            1b         {             8b         }
+	            9a         {            18a         }
+	            9b         {            18b         }
+	            1c         {             8c         }
+	            1d         {             8d         }
+	            9c         {            18c         }
+	            9d         {            18d         }
+	            1e         {             8e         }
+	            1f         {             8f         }
+	            9e         {            18e         }
+	            9f         {            18f         }
+	            1g         {             8g         }
+	            1h         {             8h         }
+	            9g         {            18g         }
+	            9h         {            18h         }
+	            1i         {             8i         }
+	            1j         {             8j         }
+	            9i         {            18i         }
+	            9j         {            18j         }
+	            1k         {             8k         }
+	            1l         {             8l         }
+	           NaN       NaN            18k         }
+	           NaN       NaN            18l         }
+WARNING  ms3.Parse.jc_bach_sonatas.wa08op17no2b_Andante -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 34: vii%: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.jc_bach_sonatas.wa09op17no3a_Allegro_Assai -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 97: vii%/V: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.jc_bach_sonatas.wa09op17no3b_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 98: vii%: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.jc_bach_sonatas.wa09op17no3b_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 31: vii%/V: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.jc_bach_sonatas.wa09op17no3b_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 92: vii%/V: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.jc_bach_sonatas.wa10op17no4a_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/expand_dcml.py (line 145) expand_labels():
+	propagate_pedal() failed with
+	6 organ points started, 5 ended:
+	   mc pedal    mc pedalend
+	0   1     I    11        ]
+	1  20     V    21        ]
+	2  40     I    44        ]
+	3  67     V    69        ]
+	4  69     I    73        ]
+	5  81     V  <NA>      NaN
+WARNING  ms3.Parse.jc_bach_sonatas.wa11op17no5a_Allegro -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 84: vii%: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.jc_bach_sonatas.wa11op17no5b_Presto -- /usr/local/lib/python3.10/site-packages/ms3/transformations.py (line 304) compute_chord_tones():
+	MC 66: vii%: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                                                mc   mn mc_onset     label        chord_tones added_tones  n_colored  n_untouched  count_ratio
+jc_bach_sonatas MS3/wa02op05no2a_Allegro_di_molto.mscx          66   66      1/4        IV          (1, 5, 2)          ()        4.0          2.0     0.666667
+                MS3/wa02op05no2a_Allegro_di_molto.mscx          70   70      1/4        IV          (1, 5, 2)          ()        4.0          2.0     0.666667
+                MS3/wa02op05no2b_Andante_di_molto.mscx          35   33      1/4        ii          (3, 0, 4)          ()        3.0          1.0     0.750000
+                MS3/wa04op05no4a_Allegro.mscx                   42   42      1/2         V         (-1, 3, 0)          ()        8.0          4.0     0.666667
+                MS3/wa04op05no4a_Allegro.mscx                   70   70        0    iv6/iv       (-5, -1, -2)          ()       10.0          5.0     0.666667
+                MS3/wa04op05no4a_Allegro.mscx                   76   76        0     IV(4)        (-4, 2, -3)          ()        1.0          0.0     1.000000
+                MS3/wa04op05no4a_Allegro.mscx                  116  116      1/2         V        (-2, 2, -1)          ()        8.0          4.0     0.666667
+                MS3/wa05op05no5a_Allegro_Assai.mscx             60   60      1/8       vi6          (0, 4, 3)          ()        2.0          1.0     0.666667
+                MS3/wa05op05no5a_Allegro_Assai.mscx             76   76      7/8    viio/V         (10, 7, 4)          ()        3.0          1.0     0.750000
+                MS3/wa05op05no5a_Allegro_Assai.mscx             85   85      1/2         V          (5, 9, 6)          ()        6.0          3.0     0.666667
+                MS3/wa05op05no5a_Allegro_Assai.mscx             90   90      1/2         V          (5, 9, 6)          ()        6.0          3.0     0.666667
+                MS3/wa05op05no5c_Prestissimo.mscx               57   55      1/4       iio          (6, 3, 0)          ()        5.0          3.0     0.625000
+                MS3/wa05op05no5c_Prestissimo.mscx               98   96      3/8        I6          (8, 5, 4)          ()        2.0          1.0     0.666667
+                MS3/wa06op05no6b_Allegro_Moderato.mscx          18   18      1/2   i6|EC}{       (-6, -2, -3)          ()        3.0          1.0     0.750000
+                MS3/wa06op05no6b_Allegro_Moderato.mscx          45   45      3/4    i.bvii      (-9, -12, -8)          ()        9.0          0.0     1.000000
+                MS3/wa07op17no1a_Minuetto_Con_Variatione.mscx   96    6        0       I65      (5, 2, -1, 1)          ()        7.0          3.0     0.700000
+                MS3/wa07op17no1a_Minuetto_Con_Variatione.mscx   97    7      1/2       V65       (6, 3, 0, 2)          ()        4.0          2.0     0.666667
+                MS3/wa08op17no2a_Allegro.mscx                    7    6      3/8     viio6       (-5, -8, -2)          ()        3.0          0.0     1.000000
+                MS3/wa08op17no2a_Allegro.mscx                   10    9      3/8     viio6       (-5, -8, -2)          ()        3.0          0.0     1.000000
+                MS3/wa08op17no2a_Allegro.mscx                   81   79      1/4  viio7/iv  (-2, -5, -8, -11)          ()        5.0          0.0     1.000000
+                MS3/wa08op17no2b_Andante.mscx                    4    4        0    vi(64)        (0, -1, -4)          ()        6.0          3.0     0.666667
+                MS3/wa08op17no2b_Andante.mscx                   29   29      3/4         V         (-1, 3, 0)          ()        8.0          5.0     0.615385
+                MS3/wa08op17no2b_Andante.mscx                   31   31      3/4         V         (-1, 3, 0)          ()        6.0          2.0     0.750000
+                MS3/wa08op17no2b_Andante.mscx                   33   33      3/4         V         (-1, 3, 0)          ()        6.0          2.0     0.750000
+                MS3/wa08op17no2b_Andante.mscx                   34   34      1/4      vii%                 ()          ()        6.0          0.0     1.000000
+                MS3/wa08op17no2b_Andante.mscx                   34   34      3/4      vii%                 ()          ()        6.0          0.0     1.000000
+                MS3/wa08op17no2b_Andante.mscx                   39   39        0    vi(64)         (1, 0, -3)          ()        6.0          3.0     0.666667
+                MS3/wa08op17no2c_Prestissimo.mscx               63   61      3/4         i         (1, -2, 2)          ()       10.0          6.0     0.625000
+                MS3/wa08op17no2c_Prestissimo.mscx               76   74      9/8  viio6/iv       (-6, -9, -3)          ()        5.0          0.0     1.000000
+                MS3/wa08op17no2c_Prestissimo.mscx               77   75      9/8  viio6/iv       (-6, -9, -3)          ()        5.0          0.0     1.000000
+                MS3/wa09op17no3a_Allegro_Assai.mscx             19   19      1/2      III6          (6, 3, 2)          ()        5.0          0.0     1.000000
+                MS3/wa09op17no3a_Allegro_Assai.mscx             97   97      3/4    vii%/V                 ()          ()        5.0          0.0     1.000000
+                MS3/wa09op17no3b_Allegro.mscx                   31   31      1/4    vii%/V                 ()          ()        4.0          0.0     1.000000
+                MS3/wa09op17no3b_Allegro.mscx                   92   92      1/4    vii%/V                 ()          ()        4.0          0.0     1.000000
+                MS3/wa09op17no3b_Allegro.mscx                   95   95     1/24    ii(^4)       (-1, -4, -2)          ()        3.0          1.0     0.750000
+                MS3/wa09op17no3b_Allegro.mscx                   98   98      1/4      vii%                 ()          ()        2.0          0.0     1.000000
+                MS3/wa11op17no5a_Allegro.mscx                   69   68      3/4      I.V{          (4, 8, 5)          ()        4.0          2.0     0.666667
+                MS3/wa11op17no5a_Allegro.mscx                   84   83        0      vii%                 ()          ()       12.0          0.0     1.000000
+                MS3/wa11op17no5b_Presto.mscx                    47   47        0       iii          (8, 5, 9)          ()        9.0          3.0     0.750000
+                MS3/wa11op17no5b_Presto.mscx                    66   66      1/4      vii%                 ()          ()        4.0          0.0     1.000000
+                MS3/wa12op17no6a_Allegro.mscx                   69   67        0  viio7/vi    (0, -3, -6, -9)          ()       18.0          0.0     1.000000
+                MS3/wa12op17no6a_Allegro.mscx                   75   73        0   IV65/iv    (1, -2, -5, -3)          ()        6.0          2.0     0.750000
+                MS3/wa12op17no6b_Andante.mscx                   64   64      3/4      viio        (2, -1, -4)          ()       18.0          8.0     0.692308
+                MS3/wa12op17no6c_Prestissimo.mscx               10    9      9/8  viio7/vi  (-1, -4, -7, -10)          ()        4.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               55   53      3/8        V6          (6, 3, 2)          ()        4.0          1.0     0.800000
+                MS3/wa12op17no6c_Prestissimo.mscx               56   54        0       It6         (-3, 1, 7)          ()       12.0          1.0     0.923077
+                MS3/wa12op17no6c_Prestissimo.mscx               57   55      3/4       It6         (-3, 1, 7)          ()        6.0          1.0     0.857143
+                MS3/wa12op17no6c_Prestissimo.mscx               58   56      3/4       It6         (-3, 1, 7)          ()        6.0          1.0     0.857143
+                MS3/wa12op17no6c_Prestissimo.mscx               59   57        0     V|HC}          (2, 6, 3)          ()        5.0          2.0     0.714286
+                MS3/wa12op17no6c_Prestissimo.mscx               59   57      3/4     V[i6{         (-2, 2, 1)          ()       12.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               60   58        0        V7       (2, 6, 3, 0)          ()        8.0          4.0     0.666667
+                MS3/wa12op17no6c_Prestissimo.mscx               60   58      3/4         i         (1, -2, 2)          ()        9.0          3.0     0.750000
+                MS3/wa12op17no6c_Prestissimo.mscx               61   59        0         V          (2, 6, 3)          ()        9.0          3.0     0.750000
+                MS3/wa12op17no6c_Prestissimo.mscx               61   59      3/4        i6         (-2, 2, 1)          ()        9.0          3.0     0.750000
+                MS3/wa12op17no6c_Prestissimo.mscx               62   60        0         V          (2, 6, 3)          ()        8.0          4.0     0.666667
+                MS3/wa12op17no6c_Prestissimo.mscx               62   60      3/4      It64         (1, 7, -3)          ()       10.0          2.0     0.833333
+                MS3/wa12op17no6c_Prestissimo.mscx               63   61        0    V]|HC}          (2, 6, 3)          ()        5.0          3.0     0.625000
+                MS3/wa12op17no6c_Prestissimo.mscx               63   61      3/4  #viio43{      (0, -3, 6, 3)          ()       12.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               64   62      3/4       V43       (3, 0, 2, 6)          ()       11.0          1.0     0.916667
+                MS3/wa12op17no6c_Prestissimo.mscx               65   63        0        i6         (-2, 2, 1)          ()        5.0          3.0     0.625000
+                MS3/wa12op17no6c_Prestissimo.mscx               65   63      3/4   #viio43      (0, -3, 6, 3)          ()       12.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               66   64      3/4   #viio65      (3, 0, -3, 6)          ()       12.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               67   65      9/8        V7       (2, 6, 3, 0)          ()        2.0          1.0     0.666667
+                MS3/wa12op17no6c_Prestissimo.mscx               68   66      9/8     #viio          (6, 3, 0)          ()        3.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               69   67      9/8      viio       (-1, -4, -7)          ()        3.0          1.0     0.750000
+                MS3/wa12op17no6c_Prestissimo.mscx               70   68      3/8      iio6         (0, -3, 3)          ()        4.0          0.0     1.000000
+                MS3/wa12op17no6c_Prestissimo.mscx               70   68      3/4     V(64)         (2, 1, -2)          ()        3.0          1.0     0.750000
+                MS3/wa12op17no6c_Prestissimo.mscx               70   68      9/8        V7       (2, 6, 3, 0)          ()        3.0          1.0     0.750000
