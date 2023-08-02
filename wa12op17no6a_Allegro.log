@@ -1,6 +1,0 @@
-INFO     wa12op17no6a_Allegro.ms3 -- Attempting to parse wa12op17no6a_Allegro.mscx
-WARNING  wa12op17no6a_Allegro.ms3 -- The endRepeat in MC 53 (1) is not adapted to the irregular measure lengths in MCs [1, 54] (1/4, 1/4)
-WARNING  wa12op17no6a_Allegro.ms3 -- MC 54 (1/4) and MC 55 (1) don't add up to 1.
-WARNING  wa12op17no6a_Allegro.ms3 -- The endRepeat in MC 120 (1) is not adapted to the irregular measure length in MC 54 (1/4)
-INFO     wa12op17no6a_Allegro.ms3 -- Done parsing wa12op17no6a_Allegro.mscx
-
