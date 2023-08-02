@@ -1,6 +1,0 @@
-INFO     wa12op17no6c_Prestissimo.ms3 -- Attempting to parse wa12op17no6c_Prestissimo.mscx
-WARNING  wa12op17no6c_Prestissimo.ms3 -- The endRepeat in MC 44 (3/2) is not adapted to the irregular measure lengths in MCs [1, 45] (1/8, 1/8)
-WARNING  wa12op17no6c_Prestissimo.ms3 -- MC 45 (1/8) and MC 46 (3/2) don't add up to 3/2.
-WARNING  wa12op17no6c_Prestissimo.ms3 -- The endRepeat in MC 107 (3/2) is not adapted to the irregular measure length in MC 45 (1/8)
-INFO     wa12op17no6c_Prestissimo.ms3 -- Done parsing wa12op17no6c_Prestissimo.mscx
-
