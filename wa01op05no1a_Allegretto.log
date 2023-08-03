@@ -1,6 +1,0 @@
-INFO     wa01op05no1a_Allegretto.ms3 -- Attempting to parse wa01op05no1a_Allegretto.mscx
-WARNING  wa01op05no1a_Allegretto.ms3 -- The endRepeat in MC 35 (1/2) is not adapted to the irregular measure lengths in MCs [1, 36] (1/4, 1/4)
-WARNING  wa01op05no1a_Allegretto.ms3 -- MC 36 (1/4) and MC 37 (1/2) don't add up to 1/2.
-WARNING  wa01op05no1a_Allegretto.ms3 -- The endRepeat in MC 84 (1/2) is not adapted to the irregular measure length in MC 36 (1/4)
-INFO     wa01op05no1a_Allegretto.ms3 -- Done parsing wa01op05no1a_Allegretto.mscx
-

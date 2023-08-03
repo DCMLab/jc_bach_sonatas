@@ -5,7 +5,7 @@ This repo holds the current version of the DCML annotation workflow which is pul
 Please note that the `meta_ corpora` branch should be used with collections of corpora.
 
 
-# Overview
+## Overview
 |             file_name              |measures|labels|standard|                     annotators                     |reviewers|
 |------------------------------------|-------:|-----:|--------|----------------------------------------------------|---------|
 |wa01op05no1a_Allegretto             |      82|   120|2.3.0   |Adrian Nagel (2.1.1.), Ehsan Mohagheghi Fard (2.3.0)|AN       |
@@ -39,4 +39,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa12op17no6c_Prestissimo            |     105|   232|2.3.0   |Amelia Brey                                         |DK       |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.2.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
