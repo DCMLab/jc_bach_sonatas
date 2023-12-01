@@ -35,8 +35,8 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa11op17no5a_Allegro                |     102|   213|2.3.0   |Davor Krkljus                                       |ST       |
 |wa11op17no5b_Presto                 |     127|   229|2.3.0   |Davor Krkljus                                       |ST       |
 |wa12op17no6a_Allegro                |     118|   194|2.3.0   |Amelia Brey                                         |DK       |
-|wa12op17no6b_Andante                |      74|   166|        |Amelia Brey                                         |DK       |
+|wa12op17no6b_Andante                |      74|   166|2.3.0   |Amelia Brey                                         |DK       |
 |wa12op17no6c_Prestissimo            |     105|   232|2.3.0   |Amelia Brey                                         |DK       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
