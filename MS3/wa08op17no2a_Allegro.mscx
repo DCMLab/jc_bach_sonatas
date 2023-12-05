@@ -238,6 +238,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>15.694</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in C minor, W.A 8</text>
@@ -262,9 +264,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.93333</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
-            <text>Allegro</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 84</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -3550,7 +3553,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
@@ -3565,7 +3568,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -8146,7 +8149,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
@@ -8166,8 +8169,7 @@
               </Note>
             </Chord>
           <Rest>
-            <staffMove>1</staffMove>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -10436,7 +10438,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -10446,7 +10448,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -13488,7 +13490,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -13503,7 +13505,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
