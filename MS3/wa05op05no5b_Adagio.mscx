@@ -240,6 +240,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>16.3785</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in E major, W.A 5</text>
@@ -263,10 +265,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.93333299999999997</tempo>
+            <tempo>1.2</tempo>
             <followText>1</followText>
-            <offset x="-16.4539" y="-9.13979"/>
-            <text>Adagio</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
             </Tempo>
           <Tuplet>
             <visible>0</visible>
@@ -5000,7 +5002,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
