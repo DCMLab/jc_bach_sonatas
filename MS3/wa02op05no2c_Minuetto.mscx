@@ -240,6 +240,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.1648</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in D major, W.A 2</text>
