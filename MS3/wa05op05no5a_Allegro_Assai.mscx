@@ -241,6 +241,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.9289</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in E major, W.A 5</text>
@@ -265,10 +267,9 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.93333</tempo>
+            <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <offset x="-18.1709" y="-9.07489"/>
-            <text>Allegro Assai</text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 138</b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>
