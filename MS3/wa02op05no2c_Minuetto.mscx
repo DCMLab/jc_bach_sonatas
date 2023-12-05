@@ -263,10 +263,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8333299999999999</tempo>
+            <tempo>2</tempo>
             <followText>1</followText>
-            <offset x="-15.3681" y="-8.45113"/>
-            <text>Minuetto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
