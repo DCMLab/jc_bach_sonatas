@@ -235,7 +235,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in G major, W.A 10</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Presto assai</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>

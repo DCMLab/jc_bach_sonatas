@@ -258,10 +258,22 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>14.1579</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in B-flat major, W.A 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Allegretto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
         </VBox>
-      <Measure len="1/4">
+      <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
           <KeySig>
@@ -272,25 +284,21 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.6666700000000001</tempo>
+            <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <text>Allegretto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 92</b></text>
             </Tempo>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>75</pitch>
               <tpc>11</tpc>
@@ -2178,12 +2186,21 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -2194,27 +2211,28 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure len="1/8">
         <startRepeat/>
         <irregular>1</irregular>
         <voice>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
               </Articulation>
@@ -2224,7 +2242,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -5039,7 +5057,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
@@ -5074,14 +5092,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure len="1/4">
+      <Measure len="1/8">
         <voice>
           <KeySig>
             <accidental>-2</accidental>
@@ -5095,7 +5110,7 @@
             <name>Bb.I{</name>
             </Harmony>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -6898,13 +6913,14 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(74)</name>
             </Harmony>
           <Chord>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -6912,14 +6928,13 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
             </Harmony>
-          <Rest>
-            <offset x="0" y="3"/>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         <voice>
           <Chord>
@@ -6959,14 +6974,14 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure len="1/8">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
             </Harmony>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -9339,13 +9354,14 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(74)</name>
             </Harmony>
           <Chord>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -9353,14 +9369,13 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
             </Harmony>
-          <Rest>
-            <offset x="0" y="3"/>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         <voice>
           <Chord>

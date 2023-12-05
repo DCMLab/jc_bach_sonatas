@@ -234,7 +234,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in E-flat major, W.A 9</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Allegro</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
