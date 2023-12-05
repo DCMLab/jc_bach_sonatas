@@ -236,6 +236,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>15.3154</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in G major, W.A 7</text>
@@ -259,9 +261,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8333299999999999</tempo>
+            <tempo>1.8</tempo>
             <followText>1</followText>
-            <text>Minuetto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 108</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
