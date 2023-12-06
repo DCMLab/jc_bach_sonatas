@@ -235,7 +235,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in B-flat major, W.A 12</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Prestissimo</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>

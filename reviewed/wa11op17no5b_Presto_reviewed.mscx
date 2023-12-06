@@ -237,7 +237,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in A major, W.A 11</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Presto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
