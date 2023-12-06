@@ -236,6 +236,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.8957</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in B-flat major, W.A 12</text>
@@ -261,9 +263,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2</tempo>
+            <tempo>2.2000000000000002</tempo>
             <followText>1</followText>
-            <text><sym>metNoteQuarterUp</sym> = 120</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 132</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -4998,7 +5001,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
@@ -5062,9 +5065,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -11175,7 +11175,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
@@ -11241,9 +11241,6 @@
             </Chord>
           <Rest>
             <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -15943,7 +15940,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -15970,9 +15967,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -21814,7 +21808,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21855,9 +21849,6 @@
             </Chord>
           <Rest>
             <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>

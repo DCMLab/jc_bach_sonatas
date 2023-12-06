@@ -238,6 +238,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.9624</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in A major, W.A 11</text>
@@ -265,7 +267,8 @@
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <text>Allegro</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>

@@ -240,6 +240,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>16.1852</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in D major, W.A 2</text>
@@ -264,11 +266,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2</tempo>
+            <tempo>2.2000000000000002</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <offset x="-16.0258" y="-9.19537"/>
-            <text>Allegro di molto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 132</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -286,6 +287,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Segment>
+            <leadingSpace>0.483221</leadingSpace>
+            </Segment>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>

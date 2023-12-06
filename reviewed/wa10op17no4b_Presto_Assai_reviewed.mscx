@@ -236,6 +236,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.5423</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in G major, W.A 10</text>
@@ -259,9 +261,10 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.2999999999999998</tempo>
+            <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
-            <text>Presto assai</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 84</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>

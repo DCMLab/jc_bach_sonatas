@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/TYmqbYo-pzYqxQ.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/m03RU_-fe90biA.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
@@ -24,6 +24,6 @@
     },
     "softwareVersion": "2.4.1"
   },
-  "git_revision": "718b84f4a2494ee1859f6dff9c2e94f55714f7c0",
-  "git_tag": "v2.0-14-g718b84f"
+  "git_revision": "a7c1ecab4dde6e75fcbfd21720fd6f68c4ca609e",
+  "git_tag": "v2.0-29-ga7c1eca"
 }

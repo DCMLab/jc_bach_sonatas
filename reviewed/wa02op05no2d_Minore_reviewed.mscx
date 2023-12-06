@@ -240,6 +240,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.2523</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in D major, W.A 2</text>
@@ -263,17 +265,17 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8333299999999999</tempo>
+            <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
-            <offset x="-14.2297" y="-8.76215"/>
-            <text>Minore</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 126</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
               <direction>up</direction>
               <subtype>ornamentTrill</subtype>
-              <offset x="0.658281" y="-3.67866"/>
+              <offset x="0.561637" y="0.67033"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>

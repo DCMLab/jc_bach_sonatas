@@ -235,6 +235,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.6725</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in E-flat major, W.A 9</text>
@@ -258,9 +260,10 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8333299999999999</tempo>
+            <tempo>1.6500000000000001</tempo>
             <followText>1</followText>
-            <text>Allegro</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 66</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>

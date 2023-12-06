@@ -240,6 +240,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.9624</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in E-flat major, W.A 4</text>
@@ -263,16 +265,16 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Tempo>
-            <tempo>1.93333</tempo>
-            <followText>1</followText>
-            <offset x="-15.6209" y="-8.72122"/>
-            <text>Allegro</text>
-            </Tempo>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>2.2000000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 132</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>

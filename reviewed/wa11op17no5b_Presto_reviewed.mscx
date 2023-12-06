@@ -238,6 +238,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.6725</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in A major, W.A 11</text>
@@ -261,10 +263,10 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.2999999999999998</tempo>
+            <tempo>1.6500000000000001</tempo>
             <followText>1</followText>
-            <offset x="-3.35" y="-6.45966"/>
-            <text>Presto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 66</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -329,6 +331,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.0966442" y="-1.32318"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -336,6 +339,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-4.23557</minDistance>
             </Tuplet>
           <Rest>
             <offset x="0" y="-3"/>
@@ -492,7 +496,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="0.0502315" y="-0.722779"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -500,14 +504,12 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -589,6 +591,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.289933" y="-0.657027"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -619,6 +622,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.579865" y="-0.834546"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -4749,6 +4753,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.091177" y="-0.448794"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -4780,6 +4785,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="-0.091177" y="-0.0164216"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -4787,6 +4793,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-2.23531</minDistance>
             </Tuplet>
           <Rest>
             <offset x="0" y="-3"/>
@@ -4943,7 +4950,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="-0.353494" y="-0.240302"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -4951,6 +4958,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-4.3537</minDistance>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -5040,6 +5048,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.091177" y="-0.668034"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -5070,6 +5079,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.091177" y="-0.506246"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -5077,6 +5087,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-3.51179</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -5916,7 +5927,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="0.287328" y="-1.81052"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -5947,6 +5958,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0" y="-0.311875"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -5954,6 +5966,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-2.59864</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -6012,7 +6025,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="0.00563276" y="-0.452627"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -6108,7 +6121,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="0.00563276" y="-0.288072"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -6116,6 +6129,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>0.433072</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -6306,7 +6320,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="-19.9947" y="-0.592266"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -6402,7 +6416,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="-19.6191" y="-0.360519"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -6498,7 +6512,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="-19.713" y="0.41999"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -6506,6 +6520,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-999</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -6594,7 +6609,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -6606,9 +6620,6 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7414,7 +7425,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="-0.182164" y="0.0764253"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -7511,6 +7522,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.0938983" y="-0.241813"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -7518,6 +7530,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>0.217282</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -7541,6 +7554,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.187797" y="-0.42978"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -7548,6 +7562,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>0.41054</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -7991,6 +8006,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="-0.0938983" y="0.203418"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -7998,6 +8014,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-3.44373</minDistance>
             </Tuplet>
           <Rest>
             <offset x="0" y="-3"/>
@@ -8022,6 +8039,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0" y="0.20464"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -8029,6 +8047,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-0.0633898</minDistance>
             </Tuplet>
           <Rest>
             <offset x="0" y="-3"/>
@@ -8185,7 +8204,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="-31.2625" y="1.98326"/>
+            <offset x="0.0995311" y="0.0705617"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -8193,6 +8212,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>0.035788</minDistance>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>

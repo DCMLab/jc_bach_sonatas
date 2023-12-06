@@ -241,6 +241,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.6389</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in C minor, W.A 6</text>
@@ -264,10 +266,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.73333300000000001</tempo>
+            <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
-            <offset x="-15.8835" y="-8.69427"/>
-            <text>Grave</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 48</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -6167,7 +6169,7 @@
           <StaffText>
             <placement>below</placement>
             <offset x="0" y="14.9618"/>
-            <text>Siegue fubito</text>
+            <text>Siegue subito</text>
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>

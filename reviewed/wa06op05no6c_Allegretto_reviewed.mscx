@@ -240,6 +240,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>19.0846</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in C minor, W.A 6</text>
@@ -265,10 +267,10 @@
             <sigD>2</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8</tempo>
+            <tempo>2</tempo>
             <followText>1</followText>
-            <offset x="-8.9094" y="-8.42725"/>
-            <text>Allegretto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>

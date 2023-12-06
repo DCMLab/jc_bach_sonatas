@@ -236,6 +236,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.3825</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Keyboard Sonata in G major, W.A 10</text>
@@ -261,9 +263,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2</tempo>
+            <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text>Allegro</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
