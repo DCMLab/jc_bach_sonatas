@@ -150,24 +150,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q106641</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1765</metaTag>
-    <metaTag name="composed_start">1765</metaTag>
-    <metaTag name="composer">Bach, Johann Christian</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian) (lists only publication date)</metaTag>
+    <metaTag name="composed_start">..</metaTag>
+    <metaTag name="composer">Johann Christian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-05-01</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Grave</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/bd4ca65a-ed09-48fe-9107-d4f974e5e6d1</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/284471</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177812565/</metaTag>
+    <metaTag name="workNumber">op.5</metaTag>
     <metaTag name="workTitle">Keyboard Sonata in C minor, W.A 6</metaTag>
     <Part>
       <Staff id="1">
@@ -234,6 +240,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.6389</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in C minor, W.A 6</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Grave</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -244,10 +266,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.73333300000000001</tempo>
+            <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
-            <offset x="-15.8835" y="-8.69427"/>
-            <text>Grave</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 48</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -6024,7 +6046,7 @@
           <StaffText>
             <placement>below</placement>
             <offset x="0" y="14.9618"/>
-            <text>Siegue fubito</text>
+            <text>Siegue subito</text>
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>

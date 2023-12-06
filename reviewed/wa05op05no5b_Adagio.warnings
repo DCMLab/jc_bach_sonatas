@@ -1,0 +1,32 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa05op05no5b_Adagio
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             8a         }
+	            9a         {            12a         }
+	           13a         {            22a         }
+	           22a         {            26a        }{
+	           26a        }{            28a         }
+	           29a         {            32a         }
+	           33a         {            36a         }
+	           37a         {            42a         }
+	           42a         {            46a         }
+	           46a         {            50a        }{
+	           50a        }{            52a         }
+	           53a        }{            53a        }{
+	            1b         {            55a         }
+	            9b         {             8b         }
+	           13b         {            12b         }
+	           22b         {            22b         }
+	           26b        }{            26b        }{
+	           29b         {            28b         }
+	           33b         {            32b         }
+	           37b         {            36b         }
+	           42b         {            42b         }
+	           46b         {            46b         }
+	           50b        }{            50b        }{
+	           53b        }{            52b         }
+	           NaN       NaN            53b        }{
+	           NaN       NaN            55b         }

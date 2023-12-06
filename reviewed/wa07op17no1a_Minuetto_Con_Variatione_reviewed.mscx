@@ -147,24 +147,29 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q106641</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1780</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Bach, Johann Christian</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.17_(Bach,_Johann_Christian) (lists only publication date)</metaTag>
+    <metaTag name="composed_start">..</metaTag>
+    <metaTag name="composer">Johann Christian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-05-02</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.17_(Bach,_Johann_Christian)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Minuetto con variazione</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/93512</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/1458152744515027850009/</metaTag>
+    <metaTag name="workNumber">op.17</metaTag>
     <metaTag name="workTitle">Keyboard Sonata in G major, W.A 7</metaTag>
     <Part>
       <Staff id="1">
@@ -230,6 +235,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>15.3154</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in G major, W.A 7</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Minuetto con variazione</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -240,9 +261,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8333299999999999</tempo>
+            <tempo>1.8</tempo>
             <followText>1</followText>
-            <text>Minuetto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 108</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

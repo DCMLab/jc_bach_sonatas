@@ -150,24 +150,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q106641</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Amelia Brey (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1765</metaTag>
-    <metaTag name="composed_start">1765</metaTag>
-    <metaTag name="composer">Bach, Johann Christian</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian) (lists only publication date)</metaTag>
+    <metaTag name="composed_start">..</metaTag>
+    <metaTag name="composer">Johann Christian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-04-22</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro di molto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/8b4b4a8c-8463-3ce6-8851-db10cf0501a2</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/284471</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">AB, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177812565/</metaTag>
+    <metaTag name="workNumber">op.5</metaTag>
     <metaTag name="workTitle">Keyboard Sonata in D major, W.A 2</metaTag>
     <Part>
       <Staff id="1">
@@ -233,6 +239,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>16.1852</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in D major, W.A 2</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Allegro di molto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -244,11 +266,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2</tempo>
+            <tempo>2.2000000000000002</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <offset x="-16.0258" y="-9.19537"/>
-            <text>Allegro di molto</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 132</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -266,6 +287,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Segment>
+            <leadingSpace>0.483221</leadingSpace>
+            </Segment>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>

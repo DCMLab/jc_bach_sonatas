@@ -150,24 +150,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q106641</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1765</metaTag>
-    <metaTag name="composed_start">1765</metaTag>
-    <metaTag name="composer">Bach, Johann Christian</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian) (lists only publication date)</metaTag>
+    <metaTag name="composed_start">..</metaTag>
+    <metaTag name="composer">Johann Christian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-04-29</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/5c32db9e-a26a-3672-af0a-3af943fa09a6</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/284471</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177812565/</metaTag>
+    <metaTag name="workNumber">op.5</metaTag>
     <metaTag name="workTitle">Keyboard Sonata in G major, W.A 3</metaTag>
     <Part>
       <Staff id="1">
@@ -233,6 +239,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.0591</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in G major, W.A 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Allegro</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Christian Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>
@@ -245,10 +267,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.93333</tempo>
+            <tempo>2</tempo>
             <followText>1</followText>
-            <offset x="-15.1197" y="-9.20176"/>
-            <text>Allegro</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
