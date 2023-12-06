@@ -1,0 +1,41 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa06op05no6c_Allegretto
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {             2a         }
+	            2a         {             4a         }
+	            4a         {             6a         }
+	            6a         {             8a         }
+	            8a         {             2b         }
+	            2b         {             4b         }
+	            4b         {             6b         }
+	            6b         {             8b         }
+	            8b         {            12a         }
+	           12a         {            14a         }
+	           14a         {            16a         }
+	           16a         {            18a         }
+	           18a         {            22a         }
+	           22a         {            26a         }
+	           26a         {            28a        }{
+	           28a        }{            30a         }
+	           30a         {            34a         }
+	           36a         {            36a         }
+	           38a         {            38a         }
+	           40a         {            40a         }
+	           44a         {            44a         }
+	           12b         {            12b         }
+	           14b         {            14b         }
+	           16b         {            16b         }
+	           18b         {            18b         }
+	           22b         {            22b         }
+	           26b         {            26b         }
+	           28b        }{            28b        }{
+	           30b         {            30b         }
+	           36b         {            34b         }
+	           38b         {            36b         }
+	           40b         {            38b         }
+	           44b         {            40b         }
+	           NaN       NaN            44b         }
+	           NaN       NaN            46a         }

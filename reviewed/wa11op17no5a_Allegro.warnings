@@ -1,0 +1,23 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.jc_bach_sonatas.wa11op17no5a_Allegro
+	MC 84: vii%: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.jc_bach_sonatas.wa11op17no5a_Allegro
+	MC 84: vii%: % requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 69, '3/4', 'I.V{') ms3.Parse.jc_bach_sonatas.wa11op17no5a_Allegro
+	The label 'I.V{' in m. 68, onset 3/4 (MC 69, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of A.I, it expresses the scale degrees
+	('5', '7', '2') [('E', 'G#', 'B')].
+	The corresponding score segment has 2 within-label and 4 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 84, '0', 'vii%') ms3.Parse.jc_bach_sonatas.wa11op17no5a_Allegro
+	The label 'vii%' in m. 83, onset 0 (MC 84, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of A.I, it expresses the scale degrees
+	() [()].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.

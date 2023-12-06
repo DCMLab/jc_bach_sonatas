@@ -1,0 +1,209 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	None of the MCs following the irregular MC 45 complete it.
+	   nominal_duration actual_duration expected_completion   next
+	mc                                                            
+	45              3/2             1/8                11/8  (46,)
+	46              3/2             3/2                   0  (47,)
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 10, '9/8', 'viio7/vi') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'viio7/vi' in m. 9, onset 9/8 (MC 10, onset 9/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.I, it expresses the scale degrees
+	('5', 'b7', 'b2', 'b4') [('F', 'Ab', 'Cb', 'Ebb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 55, '3/8', 'V6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V6' in m. 53, onset 3/8 (MC 55, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('#7', '2', '5') [('F#', 'A', 'D')].
+	The corresponding score segment has 1 within-label and 4 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 56, '0', 'It6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'It6' in m. 54, onset 0 (MC 56, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('6', '1', '#4') [('Eb', 'G', 'C#')].
+	The corresponding score segment has 1 within-label and 12 out-of-label note onsets,
+	a ratio of 0.9230769230769231 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 57, '3/4', 'It6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'It6' in m. 55, onset 3/4 (MC 57, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('6', '1', '#4') [('Eb', 'G', 'C#')].
+	The corresponding score segment has 1 within-label and 6 out-of-label note onsets,
+	a ratio of 0.8571428571428571 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 58, '3/4', 'It6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'It6' in m. 56, onset 3/4 (MC 58, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('6', '1', '#4') [('Eb', 'G', 'C#')].
+	The corresponding score segment has 1 within-label and 6 out-of-label note onsets,
+	a ratio of 0.8571428571428571 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 59, '0', 'V|HC}') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V|HC}' in m. 57, onset 0 (MC 59, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
+	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 59, '3/4', 'V[i6{') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V[i6{' in m. 57, onset 3/4 (MC 59, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('3', '5', '1') [('Bb', 'D', 'G')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 60, '0', 'V7') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V7' in m. 58, onset 0 (MC 60, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2', '4') [('D', 'F#', 'A', 'C')].
+	The corresponding score segment has 4 within-label and 8 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 60, '3/4', 'i') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'i' in m. 58, onset 3/4 (MC 60, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('1', '3', '5') [('G', 'Bb', 'D')].
+	The corresponding score segment has 3 within-label and 9 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 61, '0', 'V') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V' in m. 59, onset 0 (MC 61, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 3 within-label and 9 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 61, '3/4', 'i6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'i6' in m. 59, onset 3/4 (MC 61, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('3', '5', '1') [('Bb', 'D', 'G')].
+	The corresponding score segment has 3 within-label and 9 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 62, '0', 'V') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V' in m. 60, onset 0 (MC 62, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 4 within-label and 8 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 62, '3/4', 'It64') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'It64' in m. 60, onset 3/4 (MC 62, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('1', '#4', '6') [('G', 'C#', 'Eb')].
+	The corresponding score segment has 2 within-label and 10 out-of-label note onsets,
+	a ratio of 0.8333333333333334 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 63, '0', 'V]|HC}') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V]|HC}' in m. 61, onset 0 (MC 63, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 3 within-label and 5 out-of-label note onsets,
+	a ratio of 0.625 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 63, '3/4', '#viio43{') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label '#viio43{' in m. 61, onset 3/4 (MC 63, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('4', '6', '#7', '2') [('C', 'Eb', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '3/4', 'V43') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V43' in m. 62, onset 3/4 (MC 64, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('2', '4', '5', '#7') [('A', 'C', 'D', 'F#')].
+	The corresponding score segment has 1 within-label and 11 out-of-label note onsets,
+	a ratio of 0.9166666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 65, '0', 'i6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'i6' in m. 63, onset 0 (MC 65, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('3', '5', '1') [('Bb', 'D', 'G')].
+	The corresponding score segment has 3 within-label and 5 out-of-label note onsets,
+	a ratio of 0.625 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 65, '3/4', '#viio43') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label '#viio43' in m. 63, onset 3/4 (MC 65, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('4', '6', '#7', '2') [('C', 'Eb', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 66, '3/4', '#viio65') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label '#viio65' in m. 64, onset 3/4 (MC 66, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('2', '4', '6', '#7') [('A', 'C', 'Eb', 'F#')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 67, '9/8', 'V7') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V7' in m. 65, onset 9/8 (MC 67, onset 9/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2', '4') [('D', 'F#', 'A', 'C')].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 68, '9/8', '#viio') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label '#viio' in m. 66, onset 9/8 (MC 68, onset 9/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('#7', '2', '4') [('F#', 'A', 'C')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 69, '9/8', 'viio') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'viio' in m. 67, onset 9/8 (MC 69, onset 9/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('7', 'b2', 'b4') [('F', 'Ab', 'Cb')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 70, '3/8', 'iio6') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'iio6' in m. 68, onset 3/8 (MC 70, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('4', '6', '2') [('C', 'Eb', 'A')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 70, '3/4', 'V(64)') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V(64)' in m. 68, onset 3/4 (MC 70, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '1', '3') [('D', 'G', 'Bb')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 70, '9/8', 'V7') ms3.Parse.jc_bach_sonatas.wa12op17no6c_Prestissimo
+	The label 'V7' in m. 68, onset 9/8 (MC 70, onset 9/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Bb.vi, it expresses the scale degrees
+	('5', '#7', '2', '4') [('D', 'F#', 'A', 'C')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.

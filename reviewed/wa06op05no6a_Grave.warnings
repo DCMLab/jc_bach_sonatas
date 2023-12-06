@@ -1,0 +1,19 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.jc_bach_sonatas.wa06op05no6a_Grave
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             7a        }{
+	            7a        }{            11a         }
+	           11a         {            17a        }{
+	           17a        }{            21a        }{
+	           21a        }{            29a         }
+	           30a         {            33a         }
+	           33a         {            39a         }
+	           39a         {            43a        }{
+	           43a        }{            47a         }
+	           48a         {            52a        }{
+	           52a        }{            59a        }{
+	           59a        }{            61a         }
+	           NaN       NaN            62a         }
