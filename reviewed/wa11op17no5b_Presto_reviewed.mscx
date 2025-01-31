@@ -150,6 +150,7 @@
     <metaTag name="P86 (composer)">Q106641</metaTag>
     <metaTag name="annotators">Davor Krkljus</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1780</metaTag>
     <metaTag name="composed_source">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.17_(Bach,_Johann_Christian) (lists only publication date)</metaTag>
     <metaTag name="composed_start">..</metaTag>
