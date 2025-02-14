@@ -28,3 +28,5 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '3/8', 'viio6') ms3.Parse.j
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 10, '3/8', 'viio6') ms3.Parse.jc_bach_sonatas.wa08op17no2a_Allegro
 	The label 'viio6' in m. 9, onset 3/8 (MC 10, onset 3/8) is implied same as in 6 above
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 29, '3/4', 'V') ms3.Parse.jc_bach_sonatas.wa08op17no2b_Andante
+	The label 'V' in m. 29, onset 3/4 (MC 29, onset 3/4) in Bb major is correct so not sure why the validator is complaining here.
