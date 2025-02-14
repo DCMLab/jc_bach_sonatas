@@ -269,7 +269,7 @@
             <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -10684,7 +10684,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6|EC}{</name>
+            <name>I6|EC}{</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
