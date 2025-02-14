@@ -21,3 +21,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 90, '1/2', 'V') ms3.Parse.jc_b
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 98, '3/8', 'I6') ms3.Parse.jc_bach_sonatas.wa05op05no5c_Prestissimo
 	The label 'I6' in m. 96, onset 3/8 (MC 98, onset 3/8) is correct and the b-sharp is a passing note.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '3/8', 'viio6') ms3.Parse.jc_bach_sonatas.wa08op17no2a_Allegro
+	The label 'viio6' in m. 6, onset 3/8 (MC 7, onset 3/8) is implied and the alternate is also given.
