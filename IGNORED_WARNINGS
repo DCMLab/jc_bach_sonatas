@@ -1,0 +1,2 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 66, '1/4', 'IV') ms3.Parse.jc_bach_sonatas.wa02op05no2a_Allegro_di_molto
+	The label 'IV' in m. 66, onset 1/4 (MC 66, onset 1/4) is correct over the A pedal tone.
