@@ -11603,10 +11603,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii(^4)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -11624,7 +11620,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>ii(^4)</name>
             <offset x="0.817389" y="4.45083"/>
             </Harmony>
           <Chord>
@@ -11634,6 +11630,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
