@@ -269,7 +269,8 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 138</b></text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 138</b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>
