@@ -18,3 +18,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 85, '1/2', 'V') ms3.Parse.jc_b
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 90, '1/2', 'V') ms3.Parse.jc_bach_sonatas.wa05op05no5a_Allegro_Assai
 	The label 'V' in m. 90, onset 1/2 (MC 90, onset 1/2) is implied as resolution to the F-sharp in the soprano.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 98, '3/8', 'I6') ms3.Parse.jc_bach_sonatas.wa05op05no5c_Prestissimo
+	The label 'I6' in m. 96, onset 3/8 (MC 98, onset 3/8) is correct and the b-sharp is a passing note.
