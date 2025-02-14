@@ -3,3 +3,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 66, '1/4', 'IV') ms3.Parse.jc_
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 70, '1/4', 'IV') ms3.Parse.jc_bach_sonatas.wa02op05no2a_Allegro_di_molto
 	The label 'IV' in m. 70, onset 1/4 (MC 70, onset 1/4) is correct over the A pedal tone.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 35, '1/4', 'ii') ms3.Parse.jc_bach_sonatas.wa02op05no2b_Andante_di_molto
+	The label 'ii' in m. 33, onset 1/4 (MC 35, onset 1/4) is the resolution to the previous harmony label over a pedal tone.
