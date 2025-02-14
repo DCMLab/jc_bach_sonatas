@@ -30,3 +30,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 10, '3/8', 'viio6') ms3.Parse.
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 29, '3/4', 'V') ms3.Parse.jc_bach_sonatas.wa08op17no2b_Andante
 	The label 'V' in m. 29, onset 3/4 (MC 29, onset 3/4) in Bb major is correct so not sure why the validator is complaining here.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 31, '3/4', 'V') ms3.Parse.jc_bach_sonatas.wa08op17no2b_Andante
+	The label 'V' in m. 31, onset 3/4 (MC 31, onset 3/4) is plausibly implied here by the notes C and A over the tonic pedal Bb.
+
