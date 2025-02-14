@@ -9,3 +9,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 35, '1/4', 'ii') ms3.Parse.jc_
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 76, '0', 'IV(4)') ms3.Parse.jc_bach_sonatas.wa04op05no4a_Allegro
 	The label 'IV(4)' in m. 76, onset 0 (MC 76, onset 0) represents the implied harmony under the sole d-flat.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 76, '7/8', 'viio/V') ms3.Parse.jc_bach_sonatas.wa05op05no5a_Allegro_Assai
+	The label 'viio/V' in m. 76, onset 7/8 (MC 76, onset 7/8) could be implied even though there is no c-sharp present.
