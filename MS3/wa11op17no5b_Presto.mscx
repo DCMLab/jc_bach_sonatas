@@ -266,7 +266,7 @@
             <tempo>1.6500000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 66</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 66</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13796,7 +13796,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V/ii</name>
+            <name>viio7/V/ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
