@@ -14545,7 +14545,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V{</name>
+            <name>I.I6{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14568,6 +14568,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
