@@ -40,6 +40,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 33, '3/4', 'V') ms3.Parse.jc_b
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 63, '3/4', 'i') ms3.Parse.jc_bach_sonatas.wa08op17no2c_Prestissimo
 	The label 'i' in m. 61, onset 3/4 (MC 63, onset 3/4) is implied in the one voice melody.
 
-
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '3/4', 'viio') ms3.Parse.jc_bach_sonatas.wa12op17no6b_Andante
+	The label 'viio' in m. 64, onset 3/4 (MC 64, onset 3/4) is correct over the Eb pedal tone.
 
 
