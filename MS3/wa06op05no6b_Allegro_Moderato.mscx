@@ -12618,7 +12618,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.VII</name>
+            <name>VI.ii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12654,7 +12654,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/VI</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12707,7 +12707,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6/VI</name>
+            <name>IV6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12732,7 +12732,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VI</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12768,7 +12768,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12795,7 +12795,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i.iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
