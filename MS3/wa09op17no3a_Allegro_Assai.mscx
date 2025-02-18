@@ -10910,7 +10910,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/i{</name>
+            <name>i.i{</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10953,7 +10953,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v/i</name>
+            <name>v</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10977,7 +10977,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(6)/i</name>
+            <name>VI(6)</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11002,14 +11002,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI/i</name>
+            <name>VI</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>III6</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11223,7 +11223,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I.I6</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
