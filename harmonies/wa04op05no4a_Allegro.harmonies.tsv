@@ -68,8 +68,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 40	40	158	158	2.0	1/2	1/2	4/4	2	1	V		Eb	V		V	V							M	0	0	1, 5, 2		1	1
 41	41	160	160	2.0	0	0	4/4	2	1	I[I|PAC}		Eb	V	I	I	I					PAC	}	M	0	0	0, 4, 1		0	0
 41	41	162	162	2.0	1/2	1/2	4/4	2	1	V7		Eb	V	I	V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
-42	42	164	164	2.0	0	0	4/4	2	1	I		Eb	V	I	I	I							M	0	0	0, 4, 1		0	0
-42	42	166	166	2.0	1/2	1/2	4/4	2	1	V		Eb	V	I	V	V							M	0	0	1, 5, 2		1	1
+42	42	164	164	3.5	0	0	4/4	2	1	I		Eb	V	I	I	I							M	0	0	0, 4, 1		0	0
+42	42	335/2	335/2	0.5	7/8	7/8	4/4	2	1	V		Eb	V	I	V	V							M	0	0	1, 5, 2		1	1
 43	43	168	168	4.0	0	0	4/4	2	1	I]\\		Eb	V	I	I	I						\\	M	0	0	0, 4, 1		0	0
 44	44	172	172	8.0	0	0	4/4	2	1	I{		Eb	V		I	I						{	M	0	0	0, 4, 1		0	0
 46	46	180	180	8.0	0	0	4/4	2	1	V2/IV		Eb	V		V2/IV	V		2		IV			Mm7	0	0	-2, 0, 4, 1		0	-2
@@ -103,7 +103,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 68	68	268	268	4.0	0	0	4/4	2	1	i6}		Eb	vi		i6	i		6				}	m	0	1	-3, 1, 0		0	-3
 69	69	272	272	2.0	0	0	4/4	2	1	i/iv{		Eb	vi		i/iv	i				iv		{	m	0	1	-1, -4, 0		-1	-1
 69	69	274	274	2.0	1/2	1/2	4/4	2	1	#viio6/iv		Eb	vi		#viio6/iv	#vii	o	6		iv			o	0	1	1, -2, 4		4	1
-70	70	276	276	3.0	0	0	4/4	2	1	iv6/iv		Eb	vi		iv6/iv	iv		6		iv			m	0	1	-5, -1, -2		-2	-5
+70	70	276	276	3.0	0	0	4/4	2	1	iv6		Eb	vi		iv6	iv		6					m	0	1	-4, 0, -1		-1	-4
 70	70	279	279	1.0	3/4	3/4	4/4	2	1	iv	iio6	Eb	vi		iv	iv							m	0	1	-1, -4, 0		-1	-1
 71	71	280	280	1.0	0	0	4/4	2	1	V		Eb	vi		V	V							M	0	1	1, 5, 2		1	1
 71	71	281	281	1.0	1/4	1/4	4/4	2	1	VI		Eb	vi		VI	VI							M	0	1	-4, 0, -3		-4	-4
@@ -193,6 +193,6 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 114	114	454	454	2.0	1/2	1/2	4/4	2	1	V		Eb	I		V	V							M	0	0	1, 5, 2		1	1
 115	115	456	456	2.0	0	0	4/4	2	1	I[I|PAC}		Eb	I	I	I	I					PAC	}	M	0	0	0, 4, 1		0	0
 115	115	458	458	2.0	1/2	1/2	4/4	2	1	V7		Eb	I	I	V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
-116	116	460	460	2.0	0	0	4/4	2	1	I		Eb	I	I	I	I							M	0	0	0, 4, 1		0	0
-116	116	462	462	2.0	1/2	1/2	4/4	2	1	V		Eb	I	I	V	V							M	0	0	1, 5, 2		1	1
+116	116	460	460	3.5	0	0	4/4	2	1	I		Eb	I	I	I	I							M	0	0	0, 4, 1		0	0
+116	116	927/2	927/2	0.5	7/8	7/8	4/4	2	1	V		Eb	I	I	V	V							M	0	0	1, 5, 2		1	1
 117	117	464	464	4.0	0	0	4/4	2	1	I]\\		Eb	I	I	I	I						\\	M	0	0	0, 4, 1		0	0

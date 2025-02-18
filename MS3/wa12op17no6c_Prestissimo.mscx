@@ -12863,7 +12863,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>It64</name>
+            <name>V7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13428,7 +13428,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
