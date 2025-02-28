@@ -267,7 +267,7 @@
             <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 84</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 84</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -11626,7 +11626,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/iv</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

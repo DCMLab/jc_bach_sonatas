@@ -173,7 +173,7 @@
     "facet": "chords",
     "identifier": "p5N4JGYOc2quSA",
     "filepath": "chords/p5N4JGYOc2quSA.schema.yaml",
-    "used_in": "K332-1"
+    "used_in": "wa01op05no1b_Tempo_di_Minuetto"
   },
   "creator": {
     "@context": "https://schema.org/",
@@ -185,8 +185,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.1"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "a7c1ecab4dde6e75fcbfd21720fd6f68c4ca609e",
-  "git_tag": "v2.0-29-ga7c1eca"
+  "git_revision": "d702b804489fcb719096d3d93d20493482f58b73",
+  "git_tag": "v2.1-60-gd702b80"
 }

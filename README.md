@@ -19,7 +19,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa04op05no4a_Allegro                |     117|   197|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa04op05no4b_Rondeaux               |      69|   114|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa05op05no5a_Allegro_Assai          |      99|   209|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
-|wa05op05no5b_Adagio                 |      55|   130|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
+|wa05op05no5b_Adagio                 |      55|   131|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa05op05no5c_Prestissimo            |     102|   205|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa06op05no6a_Grave                  |      62|   148|2.3.0   |Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)         |DK, AN   |
 |wa06op05no6b_Allegro_Moderato       |      77|   281|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)          |AN, HB   |
@@ -32,7 +32,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wa09op17no3b_Allegro                |     111|   186|2.3.0   |Davor Krkljus                                       |AB       |
 |wa10op17no4a_Allegro                |      98|   226|2.3.0   |Davor Krkljus                                       |AN       |
 |wa10op17no4b_Presto_Assai           |      99|   119|2.3.0   |Davor Krkljus                                       |AN       |
-|wa11op17no5a_Allegro                |     102|   213|2.3.0   |Davor Krkljus                                       |ST       |
+|wa11op17no5a_Allegro                |     102|   214|2.3.0   |Davor Krkljus                                       |ST       |
 |wa11op17no5b_Presto                 |     127|   229|2.3.0   |Davor Krkljus                                       |ST       |
 |wa12op17no6a_Allegro                |     118|   194|2.3.0   |Amelia Brey                                         |DK       |
 |wa12op17no6b_Andante                |      74|   166|2.3.0   |Amelia Brey                                         |DK       |

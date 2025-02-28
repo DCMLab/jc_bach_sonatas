@@ -153,6 +153,7 @@
     <metaTag name="P86 (composer)">Q106641</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1765</metaTag>
     <metaTag name="composed_source">https://imslp.org/wiki/6_Keyboard_Sonatas,_Op.5_(Bach,_Johann_Christian) (lists only publication date)</metaTag>
     <metaTag name="composed_start">..</metaTag>
@@ -9152,6 +9153,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9217,6 +9224,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10471,6 +10483,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>

@@ -268,7 +268,7 @@
             <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
             </Tempo>
           <Tuplet>
             <visible>0</visible>
@@ -9050,7 +9050,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9116,6 +9116,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10368,7 +10372,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)}</name>
+            <name>V(64)}{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>

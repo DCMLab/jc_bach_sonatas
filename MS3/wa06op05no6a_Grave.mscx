@@ -269,7 +269,7 @@
             <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 48</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 48</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -11708,7 +11708,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7{</name>
             <offset x="0" y="-10"/>
             </Harmony>
           <Chord>

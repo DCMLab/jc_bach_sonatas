@@ -263,7 +263,7 @@
             <tempo>1.6500000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 66</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 66</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -8107,7 +8107,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11425,7 +11425,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11603,10 +11603,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii(^4)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -11624,7 +11620,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>ii(^4)</name>
             <offset x="0.817389" y="4.45083"/>
             </Harmony>
           <Chord>
@@ -11634,6 +11630,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11717,7 +11717,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%</name>
+            <name>vii%7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
