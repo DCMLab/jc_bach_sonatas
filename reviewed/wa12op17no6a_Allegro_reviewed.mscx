@@ -16953,13 +16953,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/vi</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#viio7/vi</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -17407,13 +17401,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV65/iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>IV65(^#3)/vi</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
