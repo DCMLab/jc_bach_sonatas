@@ -17,19 +17,23 @@ This corpus of annotated [MuseScore](https://musescore.org) files has been creat
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
 the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
 
-Johann Christian, the "London Bach," pioneered an impressive number of compositional innovations\r
-that were soon to become ubiquitous in the Classical style. In particular, he laid significant\r
-groundwork for the development of the symphony, contributing harmonic expectations to the\r
-new sonata-allegro form and experimenting with independent melodies in wind instruments. Though\r
-he wrote relatively little for solo keyboard, the sonatas in this repository are no less\r 
-pivotal. Working with an early form of the pianoforte called a "Hammerflügel," Bach leveraged\r
-the harmonic flexibility of this instrument, as well as its ability to produce subtly detailed\r
-and balanced textures, to produce an outstanding technical exemplar for sonata composition.\r
-It is very easy to perceive in this music the influence Bach had on his student Wolfgang Amadeus\r
-Mozart, and indeed, three of Mozart's early concertos (those of K.107) are in fact orchestrations\r
+Johann Christian, the "London Bach," pioneered an impressive number of compositional innovations
+that were soon to become ubiquitous in the Classical style. In particular, he laid significant
+groundwork for the development of the symphony, contributing harmonic expectations to the
+new sonata-allegro form and experimenting with independent melodies in wind instruments. Though
+he wrote relatively little for solo keyboard, the sonatas in this repository are no less
+pivotal. Working with an early form of the pianoforte called a "Hammerflügel," Bach leveraged
+the harmonic flexibility of this instrument, as well as its ability to produce subtly detailed
+and balanced textures, to produce an outstanding technical exemplar for sonata composition.
+It is very easy to perceive in this music the influence Bach had on his student Wolfgang Amadeus
+Mozart, and indeed, three of Mozart's early concertos (those of K.107) are in fact orchestrations
 of sonatas found in this repository, Bach's op. 5 nos. 2-4.
 
-The two volumes collected in this repository are op. 5 and op. 17. The former was composed around\r the time of Bach's arrival in London, prior to his appointment as music master to Queen Charlotte,\r while the latter appeared shortly before Bach died indebted at 46. Both volumes demonstrate a\r clever combination of instrumental flash and tuneful clarity whose influence upon the Classical\r style is palpable. Our annotations of these works are ideal for quantifying exactly what those\r
+The two volumes collected in this repository are op. 5 and op. 17. The former was composed around the time of Bach's
+arrival in London, prior to his appointment as music master to Queen Charlotte, while the latter appeared shortly before
+Bach died indebted at 46. Both volumes demonstrate a clever combination of instrumental flash and tuneful clarity whose
+influence upon the Classical style is palpable. Our annotations of these works are ideal for quantifying exactly what
+those
 Classical expectations are in their purest form.
 
 ## Cite as
