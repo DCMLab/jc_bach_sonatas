@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/jc_bach_sonatas?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/jc_bach_sonatas)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -12,10 +12,85 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/jc_bach_sonatas/introduction).
 
-# Johann Christian Bach – Keyboard Sonatas
+# Johann Christian Bach – Keyboard Sonatas (A corpus of annotated scores)
+
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
+
+Johann Christian, the "London Bach," pioneered an impressive number of compositional innovations
+that were soon to become ubiquitous in the Classical style. In particular, he laid significant
+groundwork for the development of the symphony, contributing harmonic expectations to the
+new sonata-allegro form and experimenting with independent melodies in wind instruments. Though
+he wrote relatively little for solo keyboard, the sonatas in this repository are no less
+pivotal. Working with an early form of the pianoforte called a "Hammerflügel," Bach leveraged
+the harmonic flexibility of this instrument, as well as its ability to produce subtly detailed
+and balanced textures, to produce an outstanding technical exemplar for sonata composition.
+It is very easy to perceive in this music the influence Bach had on his student Wolfgang Amadeus
+Mozart, and indeed, three of Mozart's early concertos (those of K.107) are in fact orchestrations
+of sonatas found in this repository, Bach's op. 5 nos. 2-4.
+
+The two volumes collected in this repository are op. 5 and op. 17. The former was composed around the time of Bach's
+arrival in London, prior to his appointment as music master to Queen Charlotte, while the latter appeared shortly before
+Bach died indebted at 46. Both volumes demonstrate a clever combination of instrumental flash and tuneful clarity whose
+influence upon the Classical style is palpable. Our annotations of these works are ideal for quantifying exactly what
+those
+Classical expectations are in their purest form.
+
+## Getting the data
+
+* download repository as a [ZIP file](https://github.com/DCMLab/jc_bach_sonatas/archive/main.zip)
+* download a [Frictionless Datapackage](https://specs.frictionlessdata.io/data-package/) that includes concatenations
+  of the TSV files in the four folders (`measures`, `notes`, `chords`, and `harmonies`) and a JSON descriptor:
+  * [jc_bach_sonatas.zip](https://github.com/DCMLab/jc_bach_sonatas/releases/latest/download/jc_bach_sonatas.zip)
+  * [jc_bach_sonatas.datapackage.json](https://github.com/DCMLab/jc_bach_sonatas/releases/latest/download/jc_bach_sonatas.datapackage.json)
+* clone the repo: `git clone https://github.com/DCMLab/jc_bach_sonatas.git` 
 
 
-## Cite as
+## Data Formats
+
+Each piece in this corpus is represented by five files with identical name prefixes, each in its own folder. 
+For example, the first movement of the first sonata op. 5 no. 1 has the following files:
+
+* `MS3/wa01op05no1a_Allegretto.mscx`: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.
+* `notes/wa01op05no1a_Allegretto.notes.tsv`: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+* `measures/wa01op05no1a_Allegretto.measures.tsv`: A table with relevant information about the measures in the score.
+* `chords/wa01op05no1a_Allegretto.chords.tsv`: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).
+* `harmonies/wa01op05no1a_Allegretto.harmonies.tsv`: A table of the included harmony labels (including cadences and phrases) with their positions in the score.
+
+Each TSV file comes with its own JSON descriptor that describes the meanings and datatypes of the columns ("fields") it contains,
+follows the [Frictionless specification](https://specs.frictionlessdata.io/tabular-data-resource/),
+and can be used to validate and correctly load the described file. 
+
+### Opening Scores
+
+After navigating to your local copy, you can open the scores in the folder `MS3` with the free and open source score
+editor [MuseScore](https://musescore.org). Please note that the scores have been edited, annotated and tested with
+[MuseScore 3.6.2](https://github.com/musescore/MuseScore/releases/tag/v3.6.2). 
+MuseScore 4 has since been released which renders them correctly but cannot store them back in the same format.
+
+### Opening TSV files in a spreadsheet
+
+Tab-separated value (TSV) files are like Comma-separated value (CSV) files and can be opened with most modern text
+editors. However, for correctly displaying the columns, you might want to use a spreadsheet or an addon for your
+favourite text editor. When you use a spreadsheet such as Excel, it might annoy you by interpreting fractions as
+dates. This can be circumvented by using `Data --> From Text/CSV` or the free alternative
+[LibreOffice Calc](https://www.libreoffice.org/download/download/). Other than that, TSV data can be loaded with
+every modern programming language.
+
+### Loading TSV files in Python
+
+Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
+to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
+`pip install -U ms3` (requires Python 3.10 or later) you'll be able to load any TSV like this:
+
+```python
+import ms3
+
+labels = ms3.load_tsv("harmonies/wa01op05no1a_Allegretto.harmonies.tsv")
+notes = ms3.load_tsv("notes/wa01op05no1a_Allegretto.notes.tsv")
+```
+
 
 ## Version history
 
@@ -24,6 +99,10 @@ See the [GitHub releases](https://github.com/DCMLab/jc_bach_sonatas/releases).
 ## Questions, Suggestions, Corrections, Bug Reports
 
 Please [create an issue](https://github.com/DCMLab/jc_bach_sonatas/issues) and/or feel free to fork and submit pull requests.
+
+## Cite as
+
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Johann Christian Bach – Keyboard Sonatas [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
 
 ## License
 
