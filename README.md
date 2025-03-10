@@ -116,7 +116,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 wa(?<warburton>\d{2})
 op(?<op>\d{2})
 no(?<no>\d)
-(?<movement>a|b|c|d)_
+(?<movement>[a-d])_
 (?<name>\S+)
 ```
 
